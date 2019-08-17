@@ -1,0 +1,914 @@
+{
+    "autoAdd": {
+        "message": "Hello @!, Thanks for add me as your friend\n\n### Open Order Selfbot ###\nPrice: 25k/Month",
+        "reply": true,
+        "status": false
+    },
+    "autoJoin": {
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "reply": false,
+        "status": false,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza",
+        "status": false
+    },
+    "autoRespondMention": {
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza",
+        "status": false
+    },
+    "changeCoverProfile": false,
+    "changeGroupPicture": [],
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "changePictureProfile": false,
+    "changePictureVideoProfile": false,
+    "changeVideoPictureProfile": false,
+    "checkContact": false,
+    "checkMention": {
+        "c864161c44bd67504fd24ecd5ca580996": {
+            "u2cc234e1ae8aae1a57899a41a1d01e8c": {
+                "msg": [
+                    {
+                        "_from": "u2cc234e1ae8aae1a57899a41a1d01e8c",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555052614472,
+                        "id": "9679841681485",
+                        "text": "@\u211c\u212e:Za \u0644\u0627 \u062a\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0644\u062a\u0648\u0628\u064a\u062e \u0634\u062e\u0635 \u0645\u0627",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u2cc234e1ae8aae1a57899a41a1d01e8c",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555083698712,
+                        "id": "9682517493571",
+                        "text": "@\u211c\u212e:Za apa?",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            },
+            "u3fe9f475d361b8309ec41d3e0195e6b8": {
+                "msg": [
+                    {
+                        "_from": "u3fe9f475d361b8309ec41d3e0195e6b8",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555049791379,
+                        "id": "9679646472563",
+                        "text": "@\u211c\u212e:Za itu mah udh ada gw",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u3fe9f475d361b8309ec41d3e0195e6b8",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"30\",\"E\":\"36\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555068523309,
+                        "id": "9681149363757",
+                        "text": "Klo flicker ngarahinnya gmna? @\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u3fe9f475d361b8309ec41d3e0195e6b8",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555068550714,
+                        "id": "9681151772684",
+                        "text": "@\u211c\u212e:Za bukannya ga bisa?",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            },
+            "u57b827fb979647fa72463887eab09af1": {
+                "msg": [
+                    {
+                        "_from": "u57b827fb979647fa72463887eab09af1",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555041635267,
+                        "id": "9679084009338",
+                        "text": "@\u211c\u212e:Za apa pin?",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u57b827fb979647fa72463887eab09af1",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555050259868,
+                        "id": "9679678691924",
+                        "text": "@\u211c\u212e:Za bct dgn stiker2",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u57b827fb979647fa72463887eab09af1",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555050332446,
+                        "id": "9679683649404",
+                        "text": "@\u211c\u212e:Za bct asw",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u57b827fb979647fa72463887eab09af1",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555083188021,
+                        "id": "9682482112662",
+                        "text": "@\u211c\u212e:Za jgn pamer ajg",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u57b827fb979647fa72463887eab09af1",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555083232565,
+                        "id": "9682485277734",
+                        "text": "@\u211c\u212e:Za bct bgst, pamer iya gip ngga",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            },
+            "u628ce28b7edada45385fcbad2eaea1f5": {
+                "msg": [
+                    {
+                        "_from": "u628ce28b7edada45385fcbad2eaea1f5",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555082965815,
+                        "id": "9682466226386",
+                        "text": "@\u211c\u212e:Za gila ajg bo 5 gada yg serius ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            },
+            "u6d821391d2aa7629104663bfafa28676": {
+                "msg": [
+                    {
+                        "_from": "u6d821391d2aa7629104663bfafa28676",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"6\",\"E\":\"12\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555087981464,
+                        "id": "9682768468240",
+                        "text": "Scover@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            },
+            "u97d174f7857e696869ba9c9192c6ea21": {
+                "msg": [
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555051549736,
+                        "id": "9679767460030",
+                        "text": "@\u211c\u212e:Za dajal warnet tidak",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555051738039,
+                        "id": "9679780496244",
+                        "text": "@\u211c\u212e:Za Makai autoread?",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555051790327,
+                        "id": "9679784126678",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555051803602,
+                        "id": "9679785057199",
+                        "text": "@\u211c\u212e:Za oi",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555051808798,
+                        "id": "9679785417424",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555052597067,
+                        "id": "9679840442454",
+                        "text": "@\u211c\u212e:Za book 3/5 ajg",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555053575591,
+                        "id": "9679910238026",
+                        "text": "@\u211c\u212e:Za asli cok",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"11\",\"E\":\"17\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555054027199,
+                        "id": "9679942460358",
+                        "text": "Gas aja ajg@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555054303047,
+                        "id": "9679962233647",
+                        "text": "@\u211c\u212e:Za jd g",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555068192288,
+                        "id": "9681120134869",
+                        "text": "@\u211c\u212e:Za mampos ajg ketiduran owkaowkaowkaowkaowk",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555068250748,
+                        "id": "9681125307844",
+                        "text": "@\u211c\u212e:Za msh lama?",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"},{\"S\":\"7\",\"E\":\"13\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555068337673,
+                        "id": "9681132987658",
+                        "text": "@\u211c\u212e:Za @\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555068473088,
+                        "id": "9681144943373",
+                        "text": "@\u211c\u212e:Za main g dajal",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555068976054,
+                        "id": "9681189950751",
+                        "text": "@\u211c\u212e:Za makan dl",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555070295504,
+                        "id": "9681310200937",
+                        "text": "@\u211c\u212e:Za jd g",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555079626265,
+                        "id": "9682194354844",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555081273682,
+                        "id": "9682335897707",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555081346682,
+                        "id": "9682341908342",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555081354948,
+                        "id": "9682342592128",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            },
+            "uf0b377ea730aa280f505c83d5603fa91": {
+                "msg": [
+                    {
+                        "_from": "uf0b377ea730aa280f505c83d5603fa91",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555040820566,
+                        "id": "9679021304654",
+                        "text": "@\u211c\u212e:Za apasi",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            },
+            "ufb220c8c16465b4efe6a0c9f6868ff9b": {
+                "msg": [
+                    {
+                        "_from": "ufb220c8c16465b4efe6a0c9f6868ff9b",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555087983113,
+                        "id": "9682768549128",
+                        "text": "@\u211c\u212e:Za wah mantap vin \udbc1\udf05\udbc0\udd54haha\udbff\udfff",
+                        "to": "c864161c44bd67504fd24ecd5ca580996"
+                    }
+                ]
+            }
+        },
+        "c96c9dcf1c95219eff5be7c0ab995943b": {
+            "u4373bb9d376b38e547aaf8548cba4d73": {
+                "msg": [
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"33\",\"E\":\"39\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555070189116,
+                        "id": "9681300393418",
+                        "text": "ini bot lu kikall bikin limit ga?@\u211c\u212e:Za ",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"S\": \"6\", \"E\": \"17\", \"M\": \"u73f0f6e4e522a154d2031eaf4f1c0888\"}, {\"S\": \"24\", \"E\": \"35\", \"M\": \"ud5b20787d40ff6d927a5e729abf8266f\"}, {\"S\": \"42\", \"E\": \"53\", \"M\": \"u7033b3442feedf9ea85de69aa78b10c8\"}, {\"S\": \"60\", \"E\": \"71\", \"M\": \"udeda37cf37d48d53b2533c39af58e43f\"}, {\"S\": \"78\", \"E\": \"89\", \"M\": \"ud9164e0e5d6ab17dc3c525ecd61ded4b\"}, {\"S\": \"96\", \"E\": \"107\", \"M\": \"u68b78d9211fcd5ddeaa9d680fc30bde4\"}, {\"S\": \"114\", \"E\": \"125\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"132\", \"E\": \"143\", \"M\": \"ubc56bf8fadecde3659e0b5331b95f24d\"}, {\"S\": \"150\", \"E\": \"161\", \"M\": \"u0e57a482d81b2d202faad4604c21c59f\"}, {\"S\": \"168\", \"E\": \"179\", \"M\": \"u80cc282d1bfec81d1bd9c4821ae00a84\"}, {\"S\": \"186\", \"E\": \"197\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"204\", \"E\": \"215\", \"M\": \"u04019009c46dd496f45d5e561f3e79f1\"}, {\"S\": \"222\", \"E\": \"233\", \"M\": \"ubfdbf70259a2b28fba64e1655532c63f\"}, {\"S\": \"240\", \"E\": \"251\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"258\", \"E\": \"269\", \"M\": \"u2becd3c167b78cd931b227162526e820\"}, {\"S\": \"276\", \"E\": \"287\", \"M\": \"ub27f5d1d188eb6c5d6a67e579a180bd7\"}, {\"S\": \"294\", \"E\": \"305\", \"M\": \"u5f4ac13b02c33f9ca75ad499e9415aa8\"}]}"
+                        },
+                        "createdTime": 1555071738249,
+                        "id": "9681444817062",
+                        "text": " 201. @kevinxmayu\n 202. @kevinxmayu\n 203. @kevinxmayu\n 204. @kevinxmayu\n 205. @kevinxmayu\n 206. @kevinxmayu\n 207. @kevinxmayu\n 208. @kevinxmayu\n 209. @kevinxmayu\n 210. @kevinxmayu\n 211. @kevinxmayu\n 212. @kevinxmayu\n 213. @kevinxmayu\n 214. @kevinxmayu\n 215. @kevinxmayu\n 216. @kevinxmayu\n 217. @kevinxmayu",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555080126180,
+                        "id": "9682238516611",
+                        "text": "@\u211c\u212e:Za bot mana bot",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"22\", \"E\": \"33\", \"M\": \"ud653b277aae9e7c86748f253076a1df3\"}, {\"S\": \"42\", \"E\": \"53\", \"M\": \"ucee3ff510b93c1f3aa3d66800eac1f87\"}, {\"S\": \"62\", \"E\": \"73\", \"M\": \"ub27f5d1d188eb6c5d6a67e579a180bd7\"}, {\"S\": \"82\", \"E\": \"93\", \"M\": \"uac3317320b60e3b396d33bae33d10309\"}, {\"S\": \"102\", \"E\": \"113\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"122\", \"E\": \"133\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555109374311,
+                        "id": "9683677333082",
+                        "text": " \u300c Check Mention \u300d\n1. @kevinxmayu  #1x\n2. @kevinxmayu  #7x\n3. @kevinxmayu  #1x\n4. @kevinxmayu  #1x\n5. @kevinxmayu  #2x\n6. @kevinxmayu  #2x",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"25\", \"E\": \"39\", \"M\": \"ucee3ff510b93c1f3aa3d66800eac1f87\"}, {\"S\": \"160\", \"E\": \"165\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"166\", \"E\": \"172\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555109389664,
+                        "id": "9683678096683",
+                        "text": " \u300c Check Mention \u300d\nFrom: @KEPINGANTENG \nCreatedTime: 3 hours ago\nLink: line://nv/chatMsg?chatId=c96c9dcf1c95219eff5be7c0ab995943b&messageId=9683117216978\nText:\n@Lino @\u211c\u212e:Za spam inv grup ntar tuh cewe pal pin",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            },
+            "ua1c181d7e9fe2cc6960288f90f384704": {
+                "msg": [
+                    {
+                        "_from": "ua1c181d7e9fe2cc6960288f90f384704",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"36\", \"E\": \"49\", \"M\": \"ucee3ff510b93c1f3aa3d66800eac1f87\"}, {\"S\": \"57\", \"E\": \"70\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"78\", \"E\": \"91\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1555069697840,
+                        "id": "9681255399902",
+                        "text": "\u256d\u300c Mention Me \u300d\n\u2502 Mention Me: 3\n\u25021. @DevLDeVeLoP  3x\n\u25022. @DevLDeVeLoP  2x\n\u25703. @DevLDeVeLoP  2x",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "ua1c181d7e9fe2cc6960288f90f384704",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"19\", \"E\": \"32\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"77\", \"E\": \"90\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"212\", \"E\": \"225\", \"M\": \"ucee3ff510b93c1f3aa3d66800eac1f87\"}, {\"S\": \"233\", \"E\": \"246\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"254\", \"E\": \"267\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1555069710525,
+                        "id": "9681256554236",
+                        "text": " \u300c Mention Me \u300d\n - @DevLDeVeLoP  2x Mention\n1. 6 hours ago\nPamerin dulu bang @DevLDeVeLoP \nline://nv/chatMsg?chatId=c96c9dcf1c95219eff5be7c0ab995943b&messageId=9679311079310\n\n2. 3 hours ago\n \u300c Check Mention \u300d\n1. @DevLDeVeLoP  #2x\n2. @DevLDeVeLoP  #2x\n3. @DevLDeVeLoP  #7x\nline://nv/chatMsg?chatId=c96c9dcf1c95219eff5be7c0ab995943b&messageId=9680201487284",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            },
+            "ucee3ff510b93c1f3aa3d66800eac1f87": {
+                "msg": [
+                    {
+                        "_from": "ucee3ff510b93c1f3aa3d66800eac1f87",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"},{\"S\":\"6\",\"E\":\"12\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555095642129,
+                        "id": "9683117216978",
+                        "text": "@Lino @\u211c\u212e:Za spam inv grup ntar tuh cewe pal pin",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            }
+        },
+        "c9fb488a705e71a7f6cb18b0e71d7df81": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": {
+                "msg": [
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555044562914,
+                        "id": "9679292886691",
+                        "text": "@\u211c\u212e:Za lo babi",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555044812842,
+                        "id": "9679309911582",
+                        "text": "@\u211c\u212e:Za apasi babi",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555049905782,
+                        "id": "9679654335639",
+                        "text": "@\u211c\u212e:Za lo BABI",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    }
+                ]
+            },
+            "u1efb5fb54929747f9c51488e8a4c6b2e": {
+                "msg": [
+                    {
+                        "_from": "u1efb5fb54929747f9c51488e8a4c6b2e",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u97d174f7857e696869ba9c9192c6ea21\"},{\"S\":\"9\",\"E\":\"15\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555072130909,
+                        "id": "9681481874211",
+                        "text": "@\u034f\u034f\u211c\u212e:Rz @\u211c\u212e:Za  hei dajjal aku kuning",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    }
+                ]
+            },
+            "u29040686ea64109c815db48e97b646f0": {
+                "msg": [
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554997222873,
+                        "id": "9676750387116",
+                        "text": "@\u211c\u212e:Za Pp ngapa di sensor dah tau jga",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555046072255,
+                        "id": "9679394761253",
+                        "text": "@\u211c\u212e:Za sma nata ajg",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"},{\"S\":\"7\",\"E\":\"15\",\"M\":\"u97d174f7857e696869ba9c9192c6ea21\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555117158402,
+                        "id": "9684117166609",
+                        "text": "@\u211c\u212e:Za @\u034f\u034f\u211c\u212e:Rz ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    }
+                ]
+            },
+            "u2cc234e1ae8aae1a57899a41a1d01e8c": {
+                "msg": [
+                    {
+                        "_from": "u2cc234e1ae8aae1a57899a41a1d01e8c",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555044681331,
+                        "id": "9679300958857",
+                        "text": "@\u211c\u212e:Za kao jga",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    }
+                ]
+            },
+            "u97d174f7857e696869ba9c9192c6ea21": {
+                "msg": [
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554998086523,
+                        "id": "9676805014651",
+                        "text": "@\u211c\u212e:Za ini adekmu",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554998348721,
+                        "id": "9676820973538",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555024822332,
+                        "id": "9677999232850",
+                        "text": "@\u211c\u212e:Za jd legend 5 aku ajg",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u97d174f7857e696869ba9c9192c6ea21",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555117610673,
+                        "id": "9684145637510",
+                        "text": "@\u211c\u212e:Za Cok aku udh legend 2 lg ea",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    }
+                ]
+            },
+            "ud6413f97a5b24b143a520eaca8b3e8d0": {
+                "msg": [
+                    {
+                        "_from": "ud6413f97a5b24b143a520eaca8b3e8d0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555043816009,
+                        "id": "9679241448148",
+                        "text": "@\u211c\u212e:Za makasih ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    }
+                ]
+            }
+        },
+        "cb3ae9a62a5ac0a20507a892ca62a6c2d": {
+            "uadc105d2c183b47106b892c97c54816b": {
+                "msg": [
+                    {
+                        "_from": "uadc105d2c183b47106b892c97c54816b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555102334868,
+                        "id": "9683363386000",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "cb3ae9a62a5ac0a20507a892ca62a6c2d"
+                    },
+                    {
+                        "_from": "uadc105d2c183b47106b892c97c54816b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555113778438,
+                        "id": "9683915147183",
+                        "text": "@\u211c\u212e:Za mau gak",
+                        "to": "cb3ae9a62a5ac0a20507a892ca62a6c2d"
+                    }
+                ]
+            }
+        },
+        "cdf26523f77c64dd9e8737532294c8e28": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": {
+                "msg": [
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ub37bfd38a22f5f7612166ade5d7a986f\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"uac0d56a02400723c14a9996a62e9740f\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"ucf357d810d2aa15d233343aef071ac53\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u1356c0c977d8e1416a08e2a6c2d83c7f\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u2cf9824ca1bf7818f0c3ca2f9848e7aa\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"uae0d8c00e1e8198bdf2178f704b31cc0\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u205e00175e0be96d571a70021cb0492a\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"ub0c358de5f43bd895e83c4e80d2dd835\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0e5fd51e6272d1772c1f61995d835a8e\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"u7ab8011faf7ce59724fcb65a2f518a3e\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"udf060a89ebb2af83af77edddb767c329\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"u996b5cfccc74c9c5badd49d7234135f2\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u30c070fd0c797d98b6ef3cbdd7b9ce29\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"ub042f6a9a21a7a875dc83236c4940f26\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"u2cc234e1ae8aae1a57899a41a1d01e8c\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"u8a1181e344c21d89ebec19769e77eb03\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"ue3387d5ebe43c36ac3c1fb3f0549e479\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u8ad6b7fa631b96cc56836f4bf3d674f6\"}]}"
+                        },
+                        "createdTime": 1555052355243,
+                        "id": "9679823433323",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ub37bfd38a22f5f7612166ade5d7a986f\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"uac0d56a02400723c14a9996a62e9740f\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"ucf357d810d2aa15d233343aef071ac53\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u1356c0c977d8e1416a08e2a6c2d83c7f\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u2cf9824ca1bf7818f0c3ca2f9848e7aa\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"uae0d8c00e1e8198bdf2178f704b31cc0\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u205e00175e0be96d571a70021cb0492a\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"ub0c358de5f43bd895e83c4e80d2dd835\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0e5fd51e6272d1772c1f61995d835a8e\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"u7ab8011faf7ce59724fcb65a2f518a3e\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"udf060a89ebb2af83af77edddb767c329\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"u996b5cfccc74c9c5badd49d7234135f2\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u30c070fd0c797d98b6ef3cbdd7b9ce29\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"ub042f6a9a21a7a875dc83236c4940f26\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"u2cc234e1ae8aae1a57899a41a1d01e8c\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"u8a1181e344c21d89ebec19769e77eb03\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"ue3387d5ebe43c36ac3c1fb3f0549e479\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u8ad6b7fa631b96cc56836f4bf3d674f6\"}]}"
+                        },
+                        "createdTime": 1555052357920,
+                        "id": "9679823619115",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ub37bfd38a22f5f7612166ade5d7a986f\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"uac0d56a02400723c14a9996a62e9740f\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"ucf357d810d2aa15d233343aef071ac53\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u1356c0c977d8e1416a08e2a6c2d83c7f\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u2cf9824ca1bf7818f0c3ca2f9848e7aa\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"uae0d8c00e1e8198bdf2178f704b31cc0\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u205e00175e0be96d571a70021cb0492a\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"ub0c358de5f43bd895e83c4e80d2dd835\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0e5fd51e6272d1772c1f61995d835a8e\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"u7ab8011faf7ce59724fcb65a2f518a3e\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"udf060a89ebb2af83af77edddb767c329\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"u996b5cfccc74c9c5badd49d7234135f2\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u30c070fd0c797d98b6ef3cbdd7b9ce29\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"ub042f6a9a21a7a875dc83236c4940f26\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"u2cc234e1ae8aae1a57899a41a1d01e8c\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"u8a1181e344c21d89ebec19769e77eb03\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"ue3387d5ebe43c36ac3c1fb3f0549e479\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u8ad6b7fa631b96cc56836f4bf3d674f6\"}]}"
+                        },
+                        "createdTime": 1555052360547,
+                        "id": "9679823800891",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    }
+                ]
+            },
+            "u13c06a7addc590bb170ccf5c51d558eb": {
+                "msg": [
+                    {
+                        "_from": "u13c06a7addc590bb170ccf5c51d558eb",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555042923264,
+                        "id": "9679178166875",
+                        "text": "@\u211c\u212e:Za maksudnya",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    },
+                    {
+                        "_from": "u13c06a7addc590bb170ccf5c51d558eb",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555042971477,
+                        "id": "9679181618525",
+                        "text": "@\u211c\u212e:Za bersrti ga minta dizinkan dulu ya",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    },
+                    {
+                        "_from": "u13c06a7addc590bb170ccf5c51d558eb",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555043018602,
+                        "id": "9679184997805",
+                        "text": "@\u211c\u212e:Za kalo yang verif line ori ya",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    }
+                ]
+            },
+            "uadc105d2c183b47106b892c97c54816b": {
+                "msg": [
+                    {
+                        "_from": "uadc105d2c183b47106b892c97c54816b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555041808280,
+                        "id": "9679096881915",
+                        "text": "@\u211c\u212e:Za tolol",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    },
+                    {
+                        "_from": "uadc105d2c183b47106b892c97c54816b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555041937080,
+                        "id": "9679106398718",
+                        "text": "@\u211c\u212e:Za tahun depan",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    }
+                ]
+            },
+            "ue3387d5ebe43c36ac3c1fb3f0549e479": {
+                "msg": [
+                    {
+                        "_from": "ue3387d5ebe43c36ac3c1fb3f0549e479",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"18\", \"E\": \"31\", \"M\": \"ub37bfd38a22f5f7612166ade5d7a986f\"}, {\"S\": \"37\", \"E\": \"50\", \"M\": \"uac0d56a02400723c14a9996a62e9740f\"}, {\"S\": \"56\", \"E\": \"69\", \"M\": \"ucf357d810d2aa15d233343aef071ac53\"}, {\"S\": \"75\", \"E\": \"88\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"94\", \"E\": \"107\", \"M\": \"u1356c0c977d8e1416a08e2a6c2d83c7f\"}, {\"S\": \"113\", \"E\": \"126\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"132\", \"E\": \"145\", \"M\": \"u2cf9824ca1bf7818f0c3ca2f9848e7aa\"}, {\"S\": \"151\", \"E\": \"164\", \"M\": \"uae0d8c00e1e8198bdf2178f704b31cc0\"}, {\"S\": \"170\", \"E\": \"183\", \"M\": \"u205e00175e0be96d571a70021cb0492a\"}, {\"S\": \"190\", \"E\": \"203\", \"M\": \"ub0c358de5f43bd895e83c4e80d2dd835\"}, {\"S\": \"210\", \"E\": \"223\", \"M\": \"u0e5fd51e6272d1772c1f61995d835a8e\"}, {\"S\": \"230\", \"E\": \"243\", \"M\": \"u7ab8011faf7ce59724fcb65a2f518a3e\"}, {\"S\": \"250\", \"E\": \"263\", \"M\": \"udf060a89ebb2af83af77edddb767c329\"}, {\"S\": \"270\", \"E\": \"283\", \"M\": \"u996b5cfccc74c9c5badd49d7234135f2\"}, {\"S\": \"290\", \"E\": \"303\", \"M\": \"u30c070fd0c797d98b6ef3cbdd7b9ce29\"}, {\"S\": \"310\", \"E\": \"323\", \"M\": \"ub042f6a9a21a7a875dc83236c4940f26\"}, {\"S\": \"330\", \"E\": \"343\", \"M\": \"u2cc234e1ae8aae1a57899a41a1d01e8c\"}, {\"S\": \"350\", \"E\": \"363\", \"M\": \"u8a1181e344c21d89ebec19769e77eb03\"}, {\"S\": \"370\", \"E\": \"383\", \"M\": \"u8ad6b7fa631b96cc56836f4bf3d674f6\"}, {\"S\": \"390\", \"E\": \"403\", \"M\": \"u1c8b29489ed8754d3e8500523b8f3a1c\"}]}"
+                        },
+                        "createdTime": 1555037787878,
+                        "id": "9678793093817",
+                        "text": "\u256d\u300c Mention \u300d\u2500\n\u25021. @RhyN It's me \n\u25022. @RhyN It's me \n\u25023. @RhyN It's me \n\u25024. @RhyN It's me \n\u25025. @RhyN It's me \n\u25026. @RhyN It's me \n\u25027. @RhyN It's me \n\u25028. @RhyN It's me \n\u25029. @RhyN It's me \n\u250210. @RhyN It's me \n\u250211. @RhyN It's me \n\u250212. @RhyN It's me \n\u250213. @RhyN It's me \n\u250214. @RhyN It's me \n\u250215. @RhyN It's me \n\u250216. @RhyN It's me \n\u250217. @RhyN It's me \n\u250218. @RhyN It's me \n\u250219. @RhyN It's me \n\u250220. @RhyN It's me ",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    }
+                ]
+            }
+        },
+        "ce8cd8e38689e71382195894c1ee7f582": {
+            "u3123ee53be23d75ef99a95f206ecc978": {
+                "msg": [
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555046806577,
+                        "id": "9679443695649",
+                        "text": "@\u211c\u212e:Za gip gua duluaab",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    }
+                ]
+            },
+            "u5957a444bbecdf0d7a43015f9a15f8a0": {
+                "msg": [
+                    {
+                        "_from": "u5957a444bbecdf0d7a43015f9a15f8a0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1555064088030,
+                        "id": "9680760281093",
+                        "text": "@\u211c\u212e:Za gip pin",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    }
+                ]
+            }
+        },
+        "cf597bd5c7d3da7d1a85b121ebd4f10b0": {
+            "u240cdda2e25f475dbe19216e96d88e85": {
+                "msg": [
+                    {
+                        "_from": "u240cdda2e25f475dbe19216e96d88e85",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"6\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555037761029,
+                        "id": "9678791266599",
+                        "text": "@\u211c\u212e:Za ",
+                        "to": "cf597bd5c7d3da7d1a85b121ebd4f10b0"
+                    }
+                ]
+            },
+            "ubfdbf70259a2b28fba64e1655532c63f": {
+                "msg": [
+                    {
+                        "_from": "ubfdbf70259a2b28fba64e1655532c63f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"44\", \"E\": \"55\", \"M\": \"u240cdda2e25f475dbe19216e96d88e85\"}, {\"S\": \"164\", \"E\": \"175\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}, {\"S\": \"285\", \"E\": \"296\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"408\", \"E\": \"419\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"528\", \"E\": \"539\", \"M\": \"u60b72526c2b939a3c9b71d25a9a1a183\"}, {\"S\": \"650\", \"E\": \"661\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"772\", \"E\": \"783\", \"M\": \"ub0c358de5f43bd895e83c4e80d2dd835\"}, {\"S\": \"897\", \"E\": \"908\", \"M\": \"uc2675e8a9c17e97ee159731baf12c6f6\"}, {\"S\": \"1017\", \"E\": \"1028\", \"M\": \"udeda37cf37d48d53b2533c39af58e43f\"}, {\"S\": \"1137\", \"E\": \"1148\", \"M\": \"ueb88c9ce642599bae14c3a2167f95921\"}]}"
+                        },
+                        "createdTime": 1555036148746,
+                        "id": "9678684188127",
+                        "text": " \u300c Service \u300d\nType: List Service\nList:\n   1. @kevinxmayu \n      User Name: aris\n      Expired: 2019-04-12\n      From: 2019-04-11\n      Status Expire: Expired\n\n   2. @kevinxmayu \n      User Name: racel\n      Expired: 2019-05-08\n      From: 2019-04-08\n      Status Expire: 26 days\n\n   3. @kevinxmayu \n      User Name: nopalkon\n      Expired: 2019-04-18\n      From: 2019-04-08\n      Status Expire: 6 days\n\n   4. @kevinxmayu \n      User Name: kepin\n      Expired: 2019-04-17\n      From: 2019-02-26\n      Status Expire: 5 days\n\n   5. @kevinxmayu \n      User Name: wildan\n      Expired: 2019-04-10\n      From: 2019-04-09\n      Status Expire: Expired\n\n   6. @kevinxmayu \n      User Name: kepin2\n      Expired: 2019-05-27\n      From: 2019-04-02\n      Status Expire: 45 days\n\n   7. @kevinxmayu \n      User Name: alekontol\n      Expired: 2019-04-11\n      From: 2019-04-09\n      Status Expire: Expired\n\n   8. @kevinxmayu \n      User Name: putra\n      Expired: 2019-04-19\n      From: 2019-04-09\n      Status Expire: 7 days\n\n   9. @kevinxmayu \n      User Name: alin\n      Expired: 2019-04-18\n      From: 2019-04-08\n      Status Expire: 6 days\n\n   10. @kevinxmayu \n      User Name: bagas\n      Expired: 2019-04-12\n      From: 2019-04-09\n      Status Expire: Expired\n",
+                        "to": "cf597bd5c7d3da7d1a85b121ebd4f10b0"
+                    }
+                ]
+            }
+        }
+    },
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "detectAnime": false,
+    "detectUnsend": {},
+    "greet": {
+        "join": {
+            "message": "Hello @!, welcome to group {name}",
+            "status": false
+        },
+        "leave": {
+            "message": "Good bye @!, see you next time",
+            "status": false
+        }
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "173b610c29382655f7fef6dd1902b577",
+        "displayName": "\u211c\u212e:Za",
+        "pictureStatus": "0hciKD6Je6PEZ2PRaMlaRDEUp4MisBEzoODlJyKQZqZXcPCitHT1sndQM7NnIOBX0VHVogdwc7ZXZY",
+        "statusMessage": "Sibuk sibuk, alah kontol."
+    },
+    "restartPoint": null,
+    "setKey": {
+        "key": "#",
+        "status": true
+    }
+}

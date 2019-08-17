@@ -1,0 +1,830 @@
+{
+    "autoAdd": {
+        "message": "Hello @!, Thanks for add me as your friend",
+        "reply": true,
+        "status": false
+    },
+    "autoJoin": {
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "reply": false,
+        "status": false,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza",
+        "status": false
+    },
+    "autoRespondMention": {
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza",
+        "status": false
+    },
+    "changeCoverProfile": false,
+    "changeGroupPicture": [],
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "changePictureProfile": false,
+    "changePictureVideoProfile": false,
+    "changeVideoPictureProfile": false,
+    "checkContact": false,
+    "checkMention": {
+        "c19b37554740c4ca445fa5cb5e57ef495": {
+            "u5675d58d40bb2181ce6d46d78af4a891": {
+                "msg": [
+                    {
+                        "_from": "u5675d58d40bb2181ce6d46d78af4a891",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554987769943,
+                        "id": "9675912022711",
+                        "text": "@Rachel \nHaiiiiii kakaaaaa",
+                        "to": "c19b37554740c4ca445fa5cb5e57ef495"
+                    },
+                    {
+                        "_from": "u5675d58d40bb2181ce6d46d78af4a891",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554987803638,
+                        "id": "9675915440239",
+                        "text": "@Rachel \nUtutuuuuuuuu",
+                        "to": "c19b37554740c4ca445fa5cb5e57ef495"
+                    }
+                ]
+            },
+            "u91456e81bdbadbd38c43a7b62c99fbc5": {
+                "msg": [
+                    {
+                        "_from": "u91456e81bdbadbd38c43a7b62c99fbc5",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554726321977,
+                        "id": "9658243149299",
+                        "text": "@Reyia [\ud83c\udd5c] acc grup",
+                        "to": "c19b37554740c4ca445fa5cb5e57ef495"
+                    }
+                ]
+            }
+        },
+        "c433f4ebeb86d107b5a4d4b6401b9433a": {
+            "u6c42f531813600a332cd6ff74d2801d0": {
+                "msg": [
+                    {
+                        "_from": "u6c42f531813600a332cd6ff74d2801d0",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"8\",\"E\":\"12\",\"M\":\"u4aef8b1eacb6156176e09de2f546d104\"},{\"S\":\"13\",\"E\":\"22\",\"M\":\"u5780cac5a31b5facb455074181b11906\"},{\"S\":\"23\",\"E\":\"38\",\"M\":\"u775535242a5299ff219ffd184a6b4423\"},{\"S\":\"39\",\"E\":\"58\",\"M\":\"u7cda45a14b07e40481d978d524379df6\"},{\"S\":\"59\",\"E\":\"78\",\"M\":\"u8486b42a0f7e7576a4aea0883ea365c1\"},{\"S\":\"79\",\"E\":\"87\",\"M\":\"u99a6e9648cca1173c2a53a6386821d7b\"},{\"S\":\"88\",\"E\":\"91\",\"M\":\"ua817a418c87fb49ed97296b809c35e9c\"},{\"S\":\"92\",\"E\":\"104\",\"M\":\"ua9658a5f5bc19ef70bc0c4b4dab526ec\"},{\"S\":\"105\",\"E\":\"120\",\"M\":\"ub4b81268e037f384ef57bb73d13893bd\"},{\"S\":\"121\",\"E\":\"136\",\"M\":\"ucc3e9278611c9a926b66684090bdf2df\"},{\"S\":\"137\",\"E\":\"157\",\"M\":\"ud1dbd4d06b5ed0ddd472e84662fa637c\"},{\"S\":\"158\",\"E\":\"173\",\"M\":\"ud9ace573c761f21c781c76b2bb64e857\"},{\"S\":\"174\",\"E\":\"191\",\"M\":\"ude6109bf867764e6d491d13568ed93d3\"},{\"S\":\"192\",\"E\":\"204\",\"M\":\"uea1924a408a9ff7c6b41dd89191fb176\"},{\"S\":\"205\",\"E\":\"232\",\"M\":\"uebf81bbae5fe445bc8e1ef4fb3e5f5a7\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554987980561,
+                        "id": "9675933413963",
+                        "text": "@Rachel @ayu @Muthia\ud83c\udd5c @\u265ecomel\u25b2 \u24d4\u2726534\u2122 @\u265eAdelia\u25b2[\u2761] \u24d4\u2726560\u2122 @\u265eWakatoshi\u25b2 \u24d4\u2726528\u2122 @Gowther @my @Jisooyaaa__ @\u265dYudhaa\u25b2 \u24d4\u274596\u2122 @\u265d\u265dKarl\u25b2 \u24d4\u2726391\u2122 @\u265bHockney\u25b2[\u00a21] \u24d4\u272665\u2122 @Alansa derinna @\u265dAlzaa\u25b2\ud83c\udd5c \u24d4\u2741226\u2122 @Rael_Kertia @\udbc2\ude01\udbc0\udd06\udbff\udfff\udbc3\ude02\udbc3\ude02\udbc3\ude02Dani68\u226f\udbc3\ude02\u211c\u212e:\udbff\udfff ",
+                        "to": "c433f4ebeb86d107b5a4d4b6401b9433a"
+                    }
+                ]
+            }
+        },
+        "c72cea902941a5cab15b06e01c185a498": {
+            "u3ade033b942098f3ce6d45bb376fa369": {
+                "msg": [
+                    {
+                        "_from": "u3ade033b942098f3ce6d45bb376fa369",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"M\": \"u3123ee53be23d75ef99a95f206ecc978\", \"S\": \"0\", \"E\": \"6\"}, {\"M\": \"ua1aa5d12bb1806552698f40be8c5c354\", \"S\": \"7\", \"E\": \"13\"}, {\"M\": \"u385740763d79115360672c98dd20dee0\", \"S\": \"14\", \"E\": \"20\"}, {\"M\": \"u19c5afecf18671de56042ac3e4f1e009\", \"S\": \"21\", \"E\": \"27\"}, {\"M\": \"uf3a64c5b8a5e8f306e23c064452f71d0\", \"S\": \"28\", \"E\": \"34\"}, {\"M\": \"u2b7abec2f496910bd3ff20df18a824d9\", \"S\": \"35\", \"E\": \"41\"}, {\"M\": \"u27b351b46fabf0128e24204b5f50bd5f\", \"S\": \"42\", \"E\": \"48\"}, {\"M\": \"u8e1956c75862bbf773a55c5952c93977\", \"S\": \"49\", \"E\": \"55\"}, {\"M\": \"u49a385bbeeef228553df23abce9cd55c\", \"S\": \"56\", \"E\": \"62\"}, {\"M\": \"u2c8c362bd2333ca38f1cf07a9d16299e\", \"S\": \"63\", \"E\": \"69\"}, {\"M\": \"ubd254600ada48f33031b3ebb46049de5\", \"S\": \"70\", \"E\": \"76\"}, {\"M\": \"u237931f0cf8d85371fc15ddbf780fa85\", \"S\": \"77\", \"E\": \"83\"}, {\"M\": \"uaea8c00bcb097a32e81c6a5fb780af23\", \"S\": \"84\", \"E\": \"90\"}, {\"M\": \"u83adee70e99eab3ac20df12f0a394f02\", \"S\": \"91\", \"E\": \"97\"}, {\"M\": \"ud4ec676961a80c9b0ada3f33ebb9bcf1\", \"S\": \"98\", \"E\": \"104\"}, {\"M\": \"u49345de50f9444faa11a8e639937f722\", \"S\": \"105\", \"E\": \"111\"}, {\"M\": \"uca401ea4faa7bebe5a2d38b97f1449a4\", \"S\": \"112\", \"E\": \"118\"}, {\"M\": \"u4857916db107102b68af48a8f1bbb6eb\", \"S\": \"119\", \"E\": \"125\"}, {\"M\": \"u5729e98319551e831bd05a944e629845\", \"S\": \"126\", \"E\": \"132\"}, {\"M\": \"u743e2bbcb81723cce9dc51c7872c4d71\", \"S\": \"133\", \"E\": \"139\"}]}"
+                        },
+                        "createdTime": 1554727863690,
+                        "id": "9658397084978",
+                        "text": "@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n",
+                        "to": "c72cea902941a5cab15b06e01c185a498"
+                    },
+                    {
+                        "_from": "u3ade033b942098f3ce6d45bb376fa369",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"M\": \"u3123ee53be23d75ef99a95f206ecc978\", \"S\": \"25\", \"E\": \"27\"}]}"
+                        },
+                        "createdTime": 1554769444867,
+                        "id": "9660773485002",
+                        "text": "Total Sider User\u300c1\u300d\nHaii @x\nIkutan chat yuk!",
+                        "to": "c72cea902941a5cab15b06e01c185a498"
+                    },
+                    {
+                        "_from": "u3ade033b942098f3ce6d45bb376fa369",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"M\": \"u3123ee53be23d75ef99a95f206ecc978\", \"S\": \"0\", \"E\": \"6\"}, {\"M\": \"ua1aa5d12bb1806552698f40be8c5c354\", \"S\": \"7\", \"E\": \"13\"}, {\"M\": \"u385740763d79115360672c98dd20dee0\", \"S\": \"14\", \"E\": \"20\"}, {\"M\": \"u19c5afecf18671de56042ac3e4f1e009\", \"S\": \"21\", \"E\": \"27\"}, {\"M\": \"uf3a64c5b8a5e8f306e23c064452f71d0\", \"S\": \"28\", \"E\": \"34\"}, {\"M\": \"u2b7abec2f496910bd3ff20df18a824d9\", \"S\": \"35\", \"E\": \"41\"}, {\"M\": \"u27b351b46fabf0128e24204b5f50bd5f\", \"S\": \"42\", \"E\": \"48\"}, {\"M\": \"u8e1956c75862bbf773a55c5952c93977\", \"S\": \"49\", \"E\": \"55\"}, {\"M\": \"u49a385bbeeef228553df23abce9cd55c\", \"S\": \"56\", \"E\": \"62\"}, {\"M\": \"u2c8c362bd2333ca38f1cf07a9d16299e\", \"S\": \"63\", \"E\": \"69\"}, {\"M\": \"ubd254600ada48f33031b3ebb46049de5\", \"S\": \"70\", \"E\": \"76\"}, {\"M\": \"u237931f0cf8d85371fc15ddbf780fa85\", \"S\": \"77\", \"E\": \"83\"}, {\"M\": \"uaea8c00bcb097a32e81c6a5fb780af23\", \"S\": \"84\", \"E\": \"90\"}, {\"M\": \"u83adee70e99eab3ac20df12f0a394f02\", \"S\": \"91\", \"E\": \"97\"}, {\"M\": \"ud4ec676961a80c9b0ada3f33ebb9bcf1\", \"S\": \"98\", \"E\": \"104\"}, {\"M\": \"u49345de50f9444faa11a8e639937f722\", \"S\": \"105\", \"E\": \"111\"}, {\"M\": \"uca401ea4faa7bebe5a2d38b97f1449a4\", \"S\": \"112\", \"E\": \"118\"}, {\"M\": \"u4857916db107102b68af48a8f1bbb6eb\", \"S\": \"119\", \"E\": \"125\"}, {\"M\": \"u5729e98319551e831bd05a944e629845\", \"S\": \"126\", \"E\": \"132\"}, {\"M\": \"u743e2bbcb81723cce9dc51c7872c4d71\", \"S\": \"133\", \"E\": \"139\"}]}"
+                        },
+                        "createdTime": 1554882049004,
+                        "id": "9668436346556",
+                        "text": "@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n",
+                        "to": "c72cea902941a5cab15b06e01c185a498"
+                    },
+                    {
+                        "_from": "u3ade033b942098f3ce6d45bb376fa369",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"M\": \"u3123ee53be23d75ef99a95f206ecc978\", \"S\": \"0\", \"E\": \"6\"}, {\"M\": \"ua1aa5d12bb1806552698f40be8c5c354\", \"S\": \"7\", \"E\": \"13\"}, {\"M\": \"u385740763d79115360672c98dd20dee0\", \"S\": \"14\", \"E\": \"20\"}, {\"M\": \"u19c5afecf18671de56042ac3e4f1e009\", \"S\": \"21\", \"E\": \"27\"}, {\"M\": \"uf3a64c5b8a5e8f306e23c064452f71d0\", \"S\": \"28\", \"E\": \"34\"}, {\"M\": \"u2b7abec2f496910bd3ff20df18a824d9\", \"S\": \"35\", \"E\": \"41\"}, {\"M\": \"u27b351b46fabf0128e24204b5f50bd5f\", \"S\": \"42\", \"E\": \"48\"}, {\"M\": \"u8e1956c75862bbf773a55c5952c93977\", \"S\": \"49\", \"E\": \"55\"}, {\"M\": \"u49a385bbeeef228553df23abce9cd55c\", \"S\": \"56\", \"E\": \"62\"}, {\"M\": \"u2c8c362bd2333ca38f1cf07a9d16299e\", \"S\": \"63\", \"E\": \"69\"}, {\"M\": \"ubd254600ada48f33031b3ebb46049de5\", \"S\": \"70\", \"E\": \"76\"}, {\"M\": \"u237931f0cf8d85371fc15ddbf780fa85\", \"S\": \"77\", \"E\": \"83\"}, {\"M\": \"uaea8c00bcb097a32e81c6a5fb780af23\", \"S\": \"84\", \"E\": \"90\"}, {\"M\": \"u83adee70e99eab3ac20df12f0a394f02\", \"S\": \"91\", \"E\": \"97\"}, {\"M\": \"ud4ec676961a80c9b0ada3f33ebb9bcf1\", \"S\": \"98\", \"E\": \"104\"}, {\"M\": \"u49345de50f9444faa11a8e639937f722\", \"S\": \"105\", \"E\": \"111\"}, {\"M\": \"uca401ea4faa7bebe5a2d38b97f1449a4\", \"S\": \"112\", \"E\": \"118\"}, {\"M\": \"u4857916db107102b68af48a8f1bbb6eb\", \"S\": \"119\", \"E\": \"125\"}, {\"M\": \"u5729e98319551e831bd05a944e629845\", \"S\": \"126\", \"E\": \"132\"}, {\"M\": \"u743e2bbcb81723cce9dc51c7872c4d71\", \"S\": \"133\", \"E\": \"139\"}]}"
+                        },
+                        "createdTime": 1554941243147,
+                        "id": "9672402649666",
+                        "text": "@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n",
+                        "to": "c72cea902941a5cab15b06e01c185a498"
+                    },
+                    {
+                        "_from": "u3ade033b942098f3ce6d45bb376fa369",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"M\": \"u3123ee53be23d75ef99a95f206ecc978\", \"S\": \"0\", \"E\": \"6\"}, {\"M\": \"ua1aa5d12bb1806552698f40be8c5c354\", \"S\": \"7\", \"E\": \"13\"}, {\"M\": \"u385740763d79115360672c98dd20dee0\", \"S\": \"14\", \"E\": \"20\"}, {\"M\": \"u19c5afecf18671de56042ac3e4f1e009\", \"S\": \"21\", \"E\": \"27\"}, {\"M\": \"uf3a64c5b8a5e8f306e23c064452f71d0\", \"S\": \"28\", \"E\": \"34\"}, {\"M\": \"u2b7abec2f496910bd3ff20df18a824d9\", \"S\": \"35\", \"E\": \"41\"}, {\"M\": \"u27b351b46fabf0128e24204b5f50bd5f\", \"S\": \"42\", \"E\": \"48\"}, {\"M\": \"u8e1956c75862bbf773a55c5952c93977\", \"S\": \"49\", \"E\": \"55\"}, {\"M\": \"u49a385bbeeef228553df23abce9cd55c\", \"S\": \"56\", \"E\": \"62\"}, {\"M\": \"u2c8c362bd2333ca38f1cf07a9d16299e\", \"S\": \"63\", \"E\": \"69\"}, {\"M\": \"ubd254600ada48f33031b3ebb46049de5\", \"S\": \"70\", \"E\": \"76\"}, {\"M\": \"u237931f0cf8d85371fc15ddbf780fa85\", \"S\": \"77\", \"E\": \"83\"}, {\"M\": \"uaea8c00bcb097a32e81c6a5fb780af23\", \"S\": \"84\", \"E\": \"90\"}, {\"M\": \"u83adee70e99eab3ac20df12f0a394f02\", \"S\": \"91\", \"E\": \"97\"}, {\"M\": \"ud4ec676961a80c9b0ada3f33ebb9bcf1\", \"S\": \"98\", \"E\": \"104\"}, {\"M\": \"u49345de50f9444faa11a8e639937f722\", \"S\": \"105\", \"E\": \"111\"}, {\"M\": \"uca401ea4faa7bebe5a2d38b97f1449a4\", \"S\": \"112\", \"E\": \"118\"}, {\"M\": \"u4857916db107102b68af48a8f1bbb6eb\", \"S\": \"119\", \"E\": \"125\"}, {\"M\": \"u5729e98319551e831bd05a944e629845\", \"S\": \"126\", \"E\": \"132\"}, {\"M\": \"u743e2bbcb81723cce9dc51c7872c4d71\", \"S\": \"133\", \"E\": \"139\"}]}"
+                        },
+                        "createdTime": 1555034214083,
+                        "id": "9678558706110",
+                        "text": "@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n",
+                        "to": "c72cea902941a5cab15b06e01c185a498"
+                    },
+                    {
+                        "_from": "u3ade033b942098f3ce6d45bb376fa369",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"M\": \"u3123ee53be23d75ef99a95f206ecc978\", \"S\": \"0\", \"E\": \"6\"}, {\"M\": \"ua1aa5d12bb1806552698f40be8c5c354\", \"S\": \"7\", \"E\": \"13\"}, {\"M\": \"u385740763d79115360672c98dd20dee0\", \"S\": \"14\", \"E\": \"20\"}, {\"M\": \"u19c5afecf18671de56042ac3e4f1e009\", \"S\": \"21\", \"E\": \"27\"}, {\"M\": \"uf3a64c5b8a5e8f306e23c064452f71d0\", \"S\": \"28\", \"E\": \"34\"}, {\"M\": \"u2b7abec2f496910bd3ff20df18a824d9\", \"S\": \"35\", \"E\": \"41\"}, {\"M\": \"u27b351b46fabf0128e24204b5f50bd5f\", \"S\": \"42\", \"E\": \"48\"}, {\"M\": \"u8e1956c75862bbf773a55c5952c93977\", \"S\": \"49\", \"E\": \"55\"}, {\"M\": \"u49a385bbeeef228553df23abce9cd55c\", \"S\": \"56\", \"E\": \"62\"}, {\"M\": \"u2c8c362bd2333ca38f1cf07a9d16299e\", \"S\": \"63\", \"E\": \"69\"}, {\"M\": \"ubd254600ada48f33031b3ebb46049de5\", \"S\": \"70\", \"E\": \"76\"}, {\"M\": \"u237931f0cf8d85371fc15ddbf780fa85\", \"S\": \"77\", \"E\": \"83\"}, {\"M\": \"uaea8c00bcb097a32e81c6a5fb780af23\", \"S\": \"84\", \"E\": \"90\"}, {\"M\": \"u83adee70e99eab3ac20df12f0a394f02\", \"S\": \"91\", \"E\": \"97\"}, {\"M\": \"ud4ec676961a80c9b0ada3f33ebb9bcf1\", \"S\": \"98\", \"E\": \"104\"}, {\"M\": \"u49345de50f9444faa11a8e639937f722\", \"S\": \"105\", \"E\": \"111\"}, {\"M\": \"uca401ea4faa7bebe5a2d38b97f1449a4\", \"S\": \"112\", \"E\": \"118\"}, {\"M\": \"u4857916db107102b68af48a8f1bbb6eb\", \"S\": \"119\", \"E\": \"125\"}, {\"M\": \"u5729e98319551e831bd05a944e629845\", \"S\": \"126\", \"E\": \"132\"}, {\"M\": \"u743e2bbcb81723cce9dc51c7872c4d71\", \"S\": \"133\", \"E\": \"139\"}]}"
+                        },
+                        "createdTime": 1555073730673,
+                        "id": "9681636112508",
+                        "text": "@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n@MGPB \n",
+                        "to": "c72cea902941a5cab15b06e01c185a498"
+                    }
+                ]
+            }
+        },
+        "c7449246f11a8f4ae9d12d350bc399a9e": {
+            "u4aef8b1eacb6156176e09de2f546d104": {
+                "msg": [
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u6c42f531813600a332cd6ff74d2801d0\"},{\"S\":\"8\",\"E\":\"19\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554736797323,
+                        "id": "9659229199419",
+                        "text": "@Nebula @Reyia [\ud83c\udd5c] ",
+                        "to": "c7449246f11a8f4ae9d12d350bc399a9e"
+                    },
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"66\",\"E\":\"70\",\"M\":\"u14a3dbb5b347caf4694788203e0af2a6\"},{\"S\":\"71\",\"E\":\"92\",\"M\":\"u25f6602257a61195250d15669baf03d9\"},{\"S\":\"93\",\"E\":\"100\",\"M\":\"u6c42f531813600a332cd6ff74d2801d0\"},{\"S\":\"101\",\"E\":\"116\",\"M\":\"ua817a418c87fb49ed97296b809c35e9c\"},{\"S\":\"117\",\"E\":\"137\",\"M\":\"ud1dbd4d06b5ed0ddd472e84662fa637c\"},{\"S\":\"138\",\"E\":\"149\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"150\",\"E\":\"160\",\"M\":\"u6413d8bb22c397083298431d982b9cb6\"},{\"S\":\"161\",\"E\":\"170\",\"M\":\"u5780cac5a31b5facb455074181b11906\"},{\"S\":\"171\",\"E\":\"186\",\"M\":\"ub4b81268e037f384ef57bb73d13893bd\"}]}"
+                        },
+                        "createdTime": 1554737093438,
+                        "id": "9659250928558",
+                        "text": "JANGAN LUPA TGL 23 APRIL PHANTOM ULTAH\n@\udbc2\ude01\udbc0\udd06\udbff\udfff\udbc3\ude02\udbc3\ude02\udbc3\ude02Dan68\u226f\udbc3\ude02\u211c\u212e:\udbff\udfff @Zee @\u265b\u265dnama_kamu\u25b2\u3207\u00b3 \u24d4\u272668\u2122 @Nebula @\u265dMayu\u25b2\u3207\u2074 \u24d4\u272624\u2122 @\u265bHockney\u25b2[\u00a21] \u24d4\u272665\u2122 @Reyia [\ud83c\udd5c] @kang logo @Muthia\ud83c\udd5c @\u265dYudhaa\u25b2 \u24d4\u274596\u2122 ",
+                        "to": "c7449246f11a8f4ae9d12d350bc399a9e"
+                    },
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554737737016,
+                        "id": "9659296085002",
+                        "text": "@Reyia [\ud83c\udd5c] tim drama apa lg njr",
+                        "to": "c7449246f11a8f4ae9d12d350bc399a9e"
+                    },
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"136\",\"E\":\"140\",\"M\":\"u14a3dbb5b347caf4694788203e0af2a6\"},{\"S\":\"141\",\"E\":\"162\",\"M\":\"u25f6602257a61195250d15669baf03d9\"},{\"S\":\"163\",\"E\":\"177\",\"M\":\"u6c42f531813600a332cd6ff74d2801d0\"},{\"S\":\"178\",\"E\":\"193\",\"M\":\"ua817a418c87fb49ed97296b809c35e9c\"},{\"S\":\"194\",\"E\":\"214\",\"M\":\"ud1dbd4d06b5ed0ddd472e84662fa637c\"},{\"S\":\"215\",\"E\":\"227\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"228\",\"E\":\"230\",\"M\":\"u6413d8bb22c397083298431d982b9cb6\"},{\"S\":\"231\",\"E\":\"240\",\"M\":\"u5780cac5a31b5facb455074181b11906\"},{\"S\":\"241\",\"E\":\"256\",\"M\":\"ub4b81268e037f384ef57bb73d13893bd\"}]}"
+                        },
+                        "createdTime": 1554818683681,
+                        "id": "9664682933740",
+                        "text": "sepakat giveawaynya itu?\nada yg mau nambahkan lg atau udh cukup?\nkalau udh cukup, broadcastnya tanggal besok\n@\udbc2\ude01\udbc0\udd06\udbff\udfff\udbc3\ude02\udbc3\ude02\udbc3\ude02Dan68\u226f\udbc3\ude02\u211c\u212e:\udbff\udfff @Zee @\u265b\u265dnama_kamu\u25b2\u3207\u00b3 \u24d4\u272668\u2122 @Ruang Kosong. @\u265dMayu\u25b2\u3207\u2074 \u24d4\u272624\u2122 @\u265bHockney\u25b2[\u00a21] \u24d4\u272665\u2122 @Rachel [\ud83c\udd5c] @. @Muthia\ud83c\udd5c @\u265dYudhaa\u25b2 \u24d4\u274596\u2122 ",
+                        "to": "c7449246f11a8f4ae9d12d350bc399a9e"
+                    },
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"12\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554819499480,
+                        "id": "9664761244812",
+                        "text": "@Rachel [\ud83c\udd5c] terserah yg make\udbc3\udc02\udbc0\uddc9slap\udbff\udfff\udbc2\udf01\udbc0\udd10attentive\udbff\udfff\nmaksudnya chel, pake logo red buatan km itu utk bagi yg ikut aja [member phantom] ntar di inv.\ntrs pp grupnya logo red jg, biar sama.",
+                        "to": "c7449246f11a8f4ae9d12d350bc399a9e"
+                    },
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"73\",\"E\":\"77\",\"M\":\"u14a3dbb5b347caf4694788203e0af2a6\"},{\"S\":\"78\",\"E\":\"99\",\"M\":\"u25f6602257a61195250d15669baf03d9\"},{\"S\":\"100\",\"E\":\"103\",\"M\":\"u6c42f531813600a332cd6ff74d2801d0\"},{\"S\":\"104\",\"E\":\"107\",\"M\":\"ua817a418c87fb49ed97296b809c35e9c\"},{\"S\":\"108\",\"E\":\"128\",\"M\":\"ud1dbd4d06b5ed0ddd472e84662fa637c\"},{\"S\":\"129\",\"E\":\"141\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"142\",\"E\":\"151\",\"M\":\"u5780cac5a31b5facb455074181b11906\"},{\"S\":\"152\",\"E\":\"167\",\"M\":\"ub4b81268e037f384ef57bb73d13893bd\"}]}"
+                        },
+                        "createdTime": 1554954308581,
+                        "id": "9673251568471",
+                        "text": "malam ini L5 berkunjung ke phantom, siap siap\n@\udbc2\ude01\udbc0\udd06\udbff\udfff\udbc3\ude02\udbc3\ude02\udbc3\ude02Dan68\u226f\udbc3\ude02\u211c\u212e:\udbff\udfff @Zee @\u265b\u265dnama_kamu\u25b2\u3207\u00b3 \u24d4\u272668\u2122 @\ud83d\udc3c @my @\u265bHockney\u25b2[\u00a21] \u24d4\u272665\u2122 @Rachel [\ud83c\udd5c] @Muthia\ud83c\udd5c @\u265dYudhaa\u25b2 \u24d4\u274596\u2122 ",
+                        "to": "c7449246f11a8f4ae9d12d350bc399a9e"
+                    }
+                ]
+            },
+            "u6c42f531813600a332cd6ff74d2801d0": {
+                "msg": [
+                    {
+                        "_from": "u6c42f531813600a332cd6ff74d2801d0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"42\",\"E\":\"61\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"62\",\"E\":\"71\",\"M\":\"u5780cac5a31b5facb455074181b11906\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554988987660,
+                        "id": "9676034377332",
+                        "text": "unch kelen menteri logo phantom unch unch @\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122 @Muthia\ud83c\udd5c ",
+                        "to": "c7449246f11a8f4ae9d12d350bc399a9e"
+                    }
+                ]
+            }
+        },
+        "c84538c424b69f98cadfa4501fcdd74a3": {
+            "u34c7abbcc4b18e41c8849f212991fa29": {
+                "msg": [
+                    {
+                        "_from": "u34c7abbcc4b18e41c8849f212991fa29",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"12\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554870508474,
+                        "id": "9667627384098",
+                        "text": "@Rachel [\ud83c\udd5c] gk bisa liat \udbc1\udf05\udbc0\udd54laugh\udbff\udfff",
+                        "to": "c84538c424b69f98cadfa4501fcdd74a3"
+                    }
+                ]
+            },
+            "ub89d25a353899aa488649668108d246b": {
+                "msg": [
+                    {
+                        "_from": "ub89d25a353899aa488649668108d246b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"4\",\"E\":\"16\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554795670299,
+                        "id": "9662591010588",
+                        "text": "Kak @Rachel [\ud83c\udd5c] link pngnya ada gak?",
+                        "to": "c84538c424b69f98cadfa4501fcdd74a3"
+                    }
+                ]
+            }
+        },
+        "c84bc57bc037e170dd8d47fd6d3bbc999": {
+            "u6c42f531813600a332cd6ff74d2801d0": {
+                "msg": [
+                    {
+                        "_from": "u6c42f531813600a332cd6ff74d2801d0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"12\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"13\",\"E\":\"28\",\"M\":\"ua817a418c87fb49ed97296b809c35e9c\"},{\"S\":\"29\",\"E\":\"47\",\"M\":\"ub9c38789866fe900951beeaf0424ed56\"},{\"S\":\"48\",\"E\":\"52\",\"M\":\"u4aef8b1eacb6156176e09de2f546d104\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554894417930,
+                        "id": "9669478641590",
+                        "text": "@Rachel [\ud83c\udd5c] @\u265dMayu\u25b2\u3207\u2074 \u24d4\u272624\u2122 @a t s i l a h Z a @ayu ",
+                        "to": "c84bc57bc037e170dd8d47fd6d3bbc999"
+                    },
+                    {
+                        "_from": "u6c42f531813600a332cd6ff74d2801d0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"19\",\"E\":\"31\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554909972993,
+                        "id": "9670931779046",
+                        "text": "pp kita kapel unch @Rachel [\ud83c\udd5c] ",
+                        "to": "c84bc57bc037e170dd8d47fd6d3bbc999"
+                    },
+                    {
+                        "_from": "u6c42f531813600a332cd6ff74d2801d0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"4\",\"M\":\"u4aef8b1eacb6156176e09de2f546d104\"},{\"S\":\"5\",\"E\":\"24\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"25\",\"E\":\"28\",\"M\":\"ua817a418c87fb49ed97296b809c35e9c\"},{\"S\":\"29\",\"E\":\"47\",\"M\":\"ub9c38789866fe900951beeaf0424ed56\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554990936851,
+                        "id": "9676226456844",
+                        "text": "@ayu @\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122 @my @a t s i l a h Z a ",
+                        "to": "c84bc57bc037e170dd8d47fd6d3bbc999"
+                    }
+                ]
+            },
+            "ua817a418c87fb49ed97296b809c35e9c": {
+                "msg": [
+                    {
+                        "_from": "ua817a418c87fb49ed97296b809c35e9c",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"31\",\"E\":\"43\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554907761051,
+                        "id": "9670757383680",
+                        "text": "Dia sering nanyain gw g ke lu? @Rachel [\ud83c\udd5c] ",
+                        "to": "c84bc57bc037e170dd8d47fd6d3bbc999"
+                    }
+                ]
+            }
+        },
+        "c8d46e9f150234f50f1ea8b1c4f893bf7": {
+            "u0127509ab5a9d781f81d3e32610644e6": {
+                "msg": [
+                    {
+                        "_from": "u0127509ab5a9d781f81d3e32610644e6",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"10\",\"M\":\"u80e0ffd82467e3a3841ddfcf61554b25\"},{\"S\":\"11\",\"E\":\"28\",\"M\":\"u1236b2e4a3d32d6b9a7d392932f1bcb2\"},{\"S\":\"29\",\"E\":\"43\",\"M\":\"u8460cf0ba3936bb9d3436e005efbc5e1\"},{\"S\":\"44\",\"E\":\"65\",\"M\":\"uc80b607bc9b70e619d708528d90b228d\"},{\"S\":\"66\",\"E\":\"85\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"},{\"S\":\"86\",\"E\":\"104\",\"M\":\"uc46f44d37ad7b3804fd96251ddaba52f\"},{\"S\":\"105\",\"E\":\"119\",\"M\":\"ud9ace573c761f21c781c76b2bb64e857\"},{\"S\":\"120\",\"E\":\"140\",\"M\":\"ueb96b88faf44cde868fd61eb00ec8744\"},{\"S\":\"141\",\"E\":\"158\",\"M\":\"ue7a07eb95d8e55d33f2fff44d363bbfd\"},{\"S\":\"159\",\"E\":\"170\",\"M\":\"u5780cac5a31b5facb455074181b11906\"},{\"S\":\"171\",\"E\":\"192\",\"M\":\"u83d023184a897e3e60c555050b08c1fb\"},{\"S\":\"193\",\"E\":\"199\",\"M\":\"ua92226c4756340b83434c5aed8b069f5\"},{\"S\":\"200\",\"E\":\"209\",\"M\":\"u65032d218450a8707f1832c62a82b9f9\"},{\"S\":\"210\",\"E\":\"222\",\"M\":\"u177cb07c4587e1d814363cee3fe13dd4\"},{\"S\":\"223\",\"E\":\"241\",\"M\":\"u865ad1644e4b30a6d99554c82c446db3\"},{\"S\":\"242\",\"E\":\"258\",\"M\":\"u406bc47f8f8d31ba4018d617f2c4be92\"},{\"S\":\"259\",\"E\":\"280\",\"M\":\"u32d9945440cd83c1c0d8432502e29758\"},{\"S\":\"281\",\"E\":\"301\",\"M\":\"u32dd4c3d6cf4ce32078cbd574bcb862b\"},{\"S\":\"302\",\"E\":\"319\",\"M\":\"u6527968f1471c9d5d79135e89977319c\"},{\"S\":\"320\",\"E\":\"341\",\"M\":\"udbd09cbfad1ab10d55506a42329bc0fb\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555043083846,
+                        "id": "9679189691461",
+                        "text": "@\u211c\u212e:Rei \ud83c\udd5c @\u265emafu_vkm\u25c6\u06de\ud83c\udd5c \u24d4\u2122 @Odil' [\ud83c\udd5c][\u2749] @\u265e\u265eCael\u25c6\u232d[\u2694]\ud83c\udd5c \u24d4\u2741510\u2122 @\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122 @\u265b\u265cTomo\u25c8\u24c2\u2328\u06de \u24d4\u269c393\u2122 @\u265bA_D\ud83c\udd5c \u24d4\u2745511\u2122 @\u211c\u212e:\u2748Agus\u2745Arya\u2748\u2692\u6c38 \ud83c\udd5c @\u211c\u212e:Bpr0oz[\u2748]\u034f\u034f\ud83c\udd5c @\u265dM\u25b2\ud83c\udd5c \u24d445\u2122 @\u22b0\u2654\u22b1Alois[3]Franley\ud83c\udd5c @Ka`\ud83c\udd5c @\u6c38\ud83c\udd5c//off @Rafdy  (\ud83c\udd5c) @\u211c\u212e:Gabriella\u2748\ud83d\udd8c\ud83c\udd5c @\u265dRan\u25a0\u06de\ud83c\udd5c \u24d4\u2726459\u2122 @\u265e\u265eTsukasa\u25a0\u211c\u212e: \u24d4\u2745498\u2122 @\u265dMirajane\u25c6\ud83c\udd5c \u24d4\u2741555\u2122 @\u2766\u0410\u043b\u043b\u0435\u043d\u26a0\u4f55\u0fc8\u232d\u25ca1\u2761\u20b0\ud83c\udd5c @\u265b\u265dAzure\u25c6[\u03b93]\u2a53 \u24d4\u2745264\u2122 ",
+                        "to": "c8d46e9f150234f50f1ea8b1c4f893bf7"
+                    }
+                ]
+            },
+            "ubdcbcb4f7d27b50b760e00a917a391df": {
+                "msg": [
+                    {
+                        "_from": "ubdcbcb4f7d27b50b760e00a917a391df",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"E\": \"11\", \"S\": \"0\", \"M\": \"ud24a720b79a3bb97e9738b4f824dae8b\"}, {\"E\": \"23\", \"S\": \"12\", \"M\": \"u1236b2e4a3d32d6b9a7d392932f1bcb2\"}, {\"E\": \"35\", \"S\": \"24\", \"M\": \"u8460cf0ba3936bb9d3436e005efbc5e1\"}, {\"E\": \"47\", \"S\": \"36\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}, {\"E\": \"59\", \"S\": \"48\", \"M\": \"uc80b607bc9b70e619d708528d90b228d\"}, {\"E\": \"71\", \"S\": \"60\", \"M\": \"uc46f44d37ad7b3804fd96251ddaba52f\"}, {\"E\": \"83\", \"S\": \"72\", \"M\": \"ud9ace573c761f21c781c76b2bb64e857\"}, {\"E\": \"95\", \"S\": \"84\", \"M\": \"ueb96b88faf44cde868fd61eb00ec8744\"}, {\"E\": \"107\", \"S\": \"96\", \"M\": \"u038d5eea3a0c1e659378c65a82bf0dda\"}, {\"E\": \"119\", \"S\": \"108\", \"M\": \"ue7a07eb95d8e55d33f2fff44d363bbfd\"}, {\"E\": \"131\", \"S\": \"120\", \"M\": \"u5780cac5a31b5facb455074181b11906\"}, {\"E\": \"143\", \"S\": \"132\", \"M\": \"u83d023184a897e3e60c555050b08c1fb\"}, {\"E\": \"155\", \"S\": \"144\", \"M\": \"ua92226c4756340b83434c5aed8b069f5\"}, {\"E\": \"167\", \"S\": \"156\", \"M\": \"u65032d218450a8707f1832c62a82b9f9\"}, {\"E\": \"179\", \"S\": \"168\", \"M\": \"u177cb07c4587e1d814363cee3fe13dd4\"}, {\"E\": \"191\", \"S\": \"180\", \"M\": \"u865ad1644e4b30a6d99554c82c446db3\"}, {\"E\": \"203\", \"S\": \"192\", \"M\": \"u406bc47f8f8d31ba4018d617f2c4be92\"}, {\"E\": \"215\", \"S\": \"204\", \"M\": \"u32d9945440cd83c1c0d8432502e29758\"}, {\"E\": \"227\", \"S\": \"216\", \"M\": \"u32dd4c3d6cf4ce32078cbd574bcb862b\"}, {\"E\": \"239\", \"S\": \"228\", \"M\": \"u6527968f1471c9d5d79135e89977319c\"}]}"
+                        },
+                        "createdTime": 1555043292681,
+                        "id": "9679204594371",
+                        "text": "@FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 @FGMTAGTAG1 ",
+                        "to": "c8d46e9f150234f50f1ea8b1c4f893bf7"
+                    }
+                ]
+            }
+        },
+        "c93ea4aa78874b662c107031900c951dc": {
+            "u0b0f649c2c77406adeee95be35327068": {
+                "msg": [
+                    {
+                        "_from": "u0b0f649c2c77406adeee95be35327068",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"39\",\"E\":\"50\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554728099402,
+                        "id": "9658420543457",
+                        "text": "Dd bikinin vn alarem bangunin aku dong @Reyia [\ud83c\udd5c] ",
+                        "to": "c93ea4aa78874b662c107031900c951dc"
+                    }
+                ]
+            },
+            "u0e1a81ae7180714e9ef73bcd990accce": {
+                "msg": [
+                    {
+                        "_from": "u0e1a81ae7180714e9ef73bcd990accce",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"36\",\"E\":\"43\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554983705050,
+                        "id": "9675514973734",
+                        "text": "Di gc aus aja ga di acc bot nya dek @Rachel ",
+                        "to": "c93ea4aa78874b662c107031900c951dc"
+                    }
+                ]
+            },
+            "uf0fa05c19dfe3e8c498bcd2df7cd66d7": {
+                "msg": [
+                    {
+                        "_from": "uf0fa05c19dfe3e8c498bcd2df7cd66d7",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"E\": \"27\", \"S\": \"25\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554910937448,
+                        "id": "9670998123240",
+                        "text": "Total Sider User\u300c1\u300d\nHaii @x\nIkutan chat yuk!",
+                        "to": "c93ea4aa78874b662c107031900c951dc"
+                    }
+                ]
+            }
+        },
+        "c96c9dcf1c95219eff5be7c0ab995943b": {
+            "u4373bb9d376b38e547aaf8548cba4d73": {
+                "msg": [
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"S\": \"6\", \"E\": \"17\", \"M\": \"u9e424b21fb32c4db129435be1b3e9e89\"}, {\"S\": \"24\", \"E\": \"35\", \"M\": \"ub25da1a6a54a622521ee00a26b5c5428\"}, {\"S\": \"42\", \"E\": \"53\", \"M\": \"u44e94b0ca56fad76565f1f4cfd45aeb6\"}, {\"S\": \"60\", \"E\": \"71\", \"M\": \"u53fb952774d6abdd7496dc8a21d83784\"}, {\"S\": \"78\", \"E\": \"89\", \"M\": \"u6fc553af05de7709cded84ddfb2f59b3\"}, {\"S\": \"96\", \"E\": \"107\", \"M\": \"u6f33143028ab71b1752b5bd0a7934d4c\"}, {\"S\": \"114\", \"E\": \"125\", \"M\": \"u286c9ac31a8e121a60fa6732975976bf\"}, {\"S\": \"132\", \"E\": \"143\", \"M\": \"u488b2a8dff2bb53b84afa7d2de0c0b0e\"}, {\"S\": \"150\", \"E\": \"161\", \"M\": \"uca4ad4b1815a05b30f362e036f0edc08\"}, {\"S\": \"168\", \"E\": \"179\", \"M\": \"u98455f8b8110ca78061a7d92b8b98d75\"}, {\"S\": \"186\", \"E\": \"197\", \"M\": \"uac3317320b60e3b396d33bae33d10309\"}, {\"S\": \"204\", \"E\": \"215\", \"M\": \"u4218645abafeca07dd9b42bbfd7fdea8\"}, {\"S\": \"222\", \"E\": \"233\", \"M\": \"u9c1d2f6d582b95da99831d37d8ba4af0\"}, {\"S\": \"240\", \"E\": \"251\", \"M\": \"u549a719265e7b6b8a4a1e9a5944e602e\"}, {\"S\": \"258\", \"E\": \"269\", \"M\": \"u1e8d029976de7d8cb200bb2dcfa111aa\"}, {\"S\": \"276\", \"E\": \"287\", \"M\": \"u3ee70bfc82df6925ebf5ae0287c14b5a\"}, {\"S\": \"294\", \"E\": \"305\", \"M\": \"ubebdb1bf9c1ccdd0f299c1c859136d70\"}, {\"S\": \"312\", \"E\": \"323\", \"M\": \"uac39273a3b4ad8030c21d33218b3aa0a\"}, {\"S\": \"330\", \"E\": \"341\", \"M\": \"udae3ecc4a19c12d392a4ad2df6143e90\"}, {\"S\": \"348\", \"E\": \"359\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554911826340,
+                        "id": "9671054455978",
+                        "text": " 181. @kevinxmayu\n 182. @kevinxmayu\n 183. @kevinxmayu\n 184. @kevinxmayu\n 185. @kevinxmayu\n 186. @kevinxmayu\n 187. @kevinxmayu\n 188. @kevinxmayu\n 189. @kevinxmayu\n 190. @kevinxmayu\n 191. @kevinxmayu\n 192. @kevinxmayu\n 193. @kevinxmayu\n 194. @kevinxmayu\n 195. @kevinxmayu\n 196. @kevinxmayu\n 197. @kevinxmayu\n 198. @kevinxmayu\n 199. @kevinxmayu\n 200. @kevinxmayu",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"22\", \"E\": \"33\", \"M\": \"ucee3ff510b93c1f3aa3d66800eac1f87\"}, {\"S\": \"43\", \"E\": \"54\", \"M\": \"uc6c9588b44e8e72ccfcbb80ef213bba3\"}, {\"S\": \"63\", \"E\": \"74\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"83\", \"E\": \"94\", \"M\": \"u9bac07b57401c80384e114d4178931ae\"}, {\"S\": \"103\", \"E\": \"114\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"124\", \"E\": \"135\", \"M\": \"u6b1eb98c569ab07735e4592e26ee7cae\"}, {\"S\": \"144\", \"E\": \"155\", \"M\": \"u65032f38e5220e11848714db40ab6343\"}, {\"S\": \"164\", \"E\": \"175\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}, {\"S\": \"184\", \"E\": \"195\", \"M\": \"u2f100834c55aa6b6ed5e140ad1af7748\"}]}"
+                        },
+                        "createdTime": 1555058367869,
+                        "id": "9680268255289",
+                        "text": " \u300c Check Mention \u300d\n1. @kevinxmayu  #12x\n2. @kevinxmayu  #1x\n3. @kevinxmayu  #3x\n4. @kevinxmayu  #1x\n5. @kevinxmayu  #14x\n6. @kevinxmayu  #1x\n7. @kevinxmayu  #1x\n8. @kevinxmayu  #1x\n9. @kevinxmayu  #1x",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"22\", \"E\": \"33\", \"M\": \"udeda37cf37d48d53b2533c39af58e43f\"}, {\"S\": \"42\", \"E\": \"53\", \"M\": \"ud653b277aae9e7c86748f253076a1df3\"}, {\"S\": \"62\", \"E\": \"73\", \"M\": \"ucee3ff510b93c1f3aa3d66800eac1f87\"}, {\"S\": \"83\", \"E\": \"94\", \"M\": \"uc6c9588b44e8e72ccfcbb80ef213bba3\"}, {\"S\": \"103\", \"E\": \"114\", \"M\": \"ua1c181d7e9fe2cc6960288f90f384704\"}, {\"S\": \"123\", \"E\": \"134\", \"M\": \"u9bac07b57401c80384e114d4178931ae\"}, {\"S\": \"143\", \"E\": \"154\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"164\", \"E\": \"175\", \"M\": \"u6b1eb98c569ab07735e4592e26ee7cae\"}, {\"S\": \"184\", \"E\": \"195\", \"M\": \"u65032f38e5220e11848714db40ab6343\"}, {\"S\": \"205\", \"E\": \"216\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}, {\"S\": \"226\", \"E\": \"237\", \"M\": \"u2fe9c4b4aa3e37c2940c111155be6706\"}, {\"S\": \"247\", \"E\": \"258\", \"M\": \"u2f100834c55aa6b6ed5e140ad1af7748\"}]}"
+                        },
+                        "createdTime": 1555069669650,
+                        "id": "9681252849438",
+                        "text": " \u300c Check Mention \u300d\n1. @kevinxmayu  #1x\n2. @kevinxmayu  #1x\n3. @kevinxmayu  #14x\n4. @kevinxmayu  #1x\n5. @kevinxmayu  #3x\n6. @kevinxmayu  #1x\n7. @kevinxmayu  #15x\n8. @kevinxmayu  #1x\n9. @kevinxmayu  #1x\n10. @kevinxmayu  #1x\n11. @kevinxmayu  #1x\n12. @kevinxmayu  #1x",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"S\": \"6\", \"E\": \"17\", \"M\": \"ub25da1a6a54a622521ee00a26b5c5428\"}, {\"S\": \"24\", \"E\": \"35\", \"M\": \"u44e94b0ca56fad76565f1f4cfd45aeb6\"}, {\"S\": \"42\", \"E\": \"53\", \"M\": \"u53fb952774d6abdd7496dc8a21d83784\"}, {\"S\": \"60\", \"E\": \"71\", \"M\": \"u6fc553af05de7709cded84ddfb2f59b3\"}, {\"S\": \"78\", \"E\": \"89\", \"M\": \"u6f33143028ab71b1752b5bd0a7934d4c\"}, {\"S\": \"96\", \"E\": \"107\", \"M\": \"u286c9ac31a8e121a60fa6732975976bf\"}, {\"S\": \"114\", \"E\": \"125\", \"M\": \"u488b2a8dff2bb53b84afa7d2de0c0b0e\"}, {\"S\": \"132\", \"E\": \"143\", \"M\": \"uca4ad4b1815a05b30f362e036f0edc08\"}, {\"S\": \"150\", \"E\": \"161\", \"M\": \"u98455f8b8110ca78061a7d92b8b98d75\"}, {\"S\": \"168\", \"E\": \"179\", \"M\": \"uac3317320b60e3b396d33bae33d10309\"}, {\"S\": \"186\", \"E\": \"197\", \"M\": \"u4218645abafeca07dd9b42bbfd7fdea8\"}, {\"S\": \"204\", \"E\": \"215\", \"M\": \"u9c1d2f6d582b95da99831d37d8ba4af0\"}, {\"S\": \"222\", \"E\": \"233\", \"M\": \"u549a719265e7b6b8a4a1e9a5944e602e\"}, {\"S\": \"240\", \"E\": \"251\", \"M\": \"u1e8d029976de7d8cb200bb2dcfa111aa\"}, {\"S\": \"258\", \"E\": \"269\", \"M\": \"u3ee70bfc82df6925ebf5ae0287c14b5a\"}, {\"S\": \"276\", \"E\": \"287\", \"M\": \"ubebdb1bf9c1ccdd0f299c1c859136d70\"}, {\"S\": \"294\", \"E\": \"305\", \"M\": \"uac39273a3b4ad8030c21d33218b3aa0a\"}, {\"S\": \"312\", \"E\": \"323\", \"M\": \"udae3ecc4a19c12d392a4ad2df6143e90\"}, {\"S\": \"330\", \"E\": \"341\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}, {\"S\": \"348\", \"E\": \"359\", \"M\": \"u543c31c59b0e84dc63a50ab528bf49f1\"}]}"
+                        },
+                        "createdTime": 1555071738228,
+                        "id": "9681444804868",
+                        "text": " 181. @kevinxmayu\n 182. @kevinxmayu\n 183. @kevinxmayu\n 184. @kevinxmayu\n 185. @kevinxmayu\n 186. @kevinxmayu\n 187. @kevinxmayu\n 188. @kevinxmayu\n 189. @kevinxmayu\n 190. @kevinxmayu\n 191. @kevinxmayu\n 192. @kevinxmayu\n 193. @kevinxmayu\n 194. @kevinxmayu\n 195. @kevinxmayu\n 196. @kevinxmayu\n 197. @kevinxmayu\n 198. @kevinxmayu\n 199. @kevinxmayu\n 200. @kevinxmayu",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            },
+            "ucee3ff510b93c1f3aa3d66800eac1f87": {
+                "msg": [
+                    {
+                        "_from": "ucee3ff510b93c1f3aa3d66800eac1f87",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"22\",\"E\":\"27\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"},{\"S\":\"38\",\"E\":\"48\",\"M\":\"uc6c9588b44e8e72ccfcbb80ef213bba3\"},{\"S\":\"57\",\"E\":\"73\",\"M\":\"ua1c181d7e9fe2cc6960288f90f384704\"},{\"S\":\"82\",\"E\":\"88\",\"M\":\"u9bac07b57401c80384e114d4178931ae\"},{\"S\":\"97\",\"E\":\"103\",\"M\":\"u808df60e6af41eda7e5d974f0bfe7612\"},{\"S\":\"114\",\"E\":\"122\",\"M\":\"u6b1eb98c569ab07735e4592e26ee7cae\"},{\"S\":\"132\",\"E\":\"134\",\"M\":\"u65032f38e5220e11848714db40ab6343\"},{\"S\":\"144\",\"E\":\"163\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1555058598454,
+                        "id": "9680286809622",
+                        "text": " \u300c Check Mention \u300d\n1. @Lino   #12x\n2. @Fakhry \ud83d\udebe  #1x\n3. @Aditya Nugraha~  #3x\n4. @Anxii  #1x\n5. @\u211c\u212e:Za   #14x\n6. @Gilang~   #1x\n7. @.   #1x\n8. @\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122   #1x",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "ucee3ff510b93c1f3aa3d66800eac1f87",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"19\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1555077472922,
+                        "id": "9681996684583",
+                        "text": "@\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122 hehehe",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            }
+        },
+        "cab048bfc4b91cf62848fb3e7c48d372f": {
+            "ucd8ba151871eb526637b1bc1fd224b24": {
+                "msg": [
+                    {
+                        "_from": "ucd8ba151871eb526637b1bc1fd224b24",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554777162899,
+                        "id": "9661258122758",
+                        "text": "@Yuraa [\ud83c\udd5c] ",
+                        "to": "cab048bfc4b91cf62848fb3e7c48d372f"
+                    },
+                    {
+                        "_from": "ucd8ba151871eb526637b1bc1fd224b24",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554778124485,
+                        "id": "9661322676014",
+                        "text": "@Yuraa [\ud83c\udd5c] bacot",
+                        "to": "cab048bfc4b91cf62848fb3e7c48d372f"
+                    },
+                    {
+                        "_from": "ucd8ba151871eb526637b1bc1fd224b24",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554788616248,
+                        "id": "9662096183330",
+                        "text": "@Yuraa [\ud83c\udd5c] ",
+                        "to": "cab048bfc4b91cf62848fb3e7c48d372f"
+                    },
+                    {
+                        "_from": "ucd8ba151871eb526637b1bc1fd224b24",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554788711026,
+                        "id": "9662102739849",
+                        "text": "@Yuraa [\ud83c\udd5c] setting dulu auto mention nya anjer . malu malu in :v",
+                        "to": "cab048bfc4b91cf62848fb3e7c48d372f"
+                    },
+                    {
+                        "_from": "ucd8ba151871eb526637b1bc1fd224b24",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"4\",\"E\":\"16\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554820057417,
+                        "id": "9664813185752",
+                        "text": "bot @Rachel [\ud83c\udd5c] ",
+                        "to": "cab048bfc4b91cf62848fb3e7c48d372f"
+                    }
+                ]
+            }
+        },
+        "cd6558f43ece6c77cacbaeb59cc5e8bd5": {
+            "u5f4661ccd227c73211593d0cf00a9543": {
+                "msg": [
+                    {
+                        "_from": "u5f4661ccd227c73211593d0cf00a9543",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554726440440,
+                        "id": "9658254829050",
+                        "text": "@Reyia [\ud83c\udd5c] enk ga kalo di tanya",
+                        "to": "cd6558f43ece6c77cacbaeb59cc5e8bd5"
+                    },
+                    {
+                        "_from": "u5f4661ccd227c73211593d0cf00a9543",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554730909685,
+                        "id": "9658701309809",
+                        "text": "@Reyia [\ud83c\udd5c] hah ebaq ?",
+                        "to": "cd6558f43ece6c77cacbaeb59cc5e8bd5"
+                    }
+                ]
+            }
+        },
+        "cda09c5091b718a270f71b9a307c32861": {
+            "ub286f223f44d7b7eed6246a8462320f1": {
+                "msg": [
+                    {
+                        "_from": "ub286f223f44d7b7eed6246a8462320f1",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"5\",\"E\":\"17\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554873680874,
+                        "id": "9667848177378",
+                        "text": "Done @Rachel [\ud83c\udd5c] ",
+                        "to": "cda09c5091b718a270f71b9a307c32861"
+                    }
+                ]
+            }
+        },
+        "ce8cd8e38689e71382195894c1ee7f582": {
+            "u4aef8b1eacb6156176e09de2f546d104": {
+                "msg": [
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554742682314,
+                        "id": "9659580169419",
+                        "text": "@Reyia [\ud83c\udd5c] itu rata2 anak kn semua follownya ya, kerad sangat",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u4aef8b1eacb6156176e09de2f546d104",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"12\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554899518504,
+                        "id": "9669959343686",
+                        "text": "@Rachel [\ud83c\udd5c] ntar cek sidernya ya chel",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    }
+                ]
+            },
+            "u808df60e6af41eda7e5d974f0bfe7612": {
+                "msg": [
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554730894649,
+                        "id": "9658699811171",
+                        "text": "@Reyia [\ud83c\udd5c] ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"24\",\"E\":\"35\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554731071793,
+                        "id": "9658717375436",
+                        "text": "bisnis dengan op warnet @Reyia [\ud83c\udd5c] ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554737755516,
+                        "id": "9659297334131",
+                        "text": "@Reyia [\ud83c\udd5c] apa",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"12\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554811340803,
+                        "id": "9663944722003",
+                        "text": "@Rachel [\ud83c\udd5c]",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"19\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554994460001,
+                        "id": "9676545436668",
+                        "text": "@\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122 ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"67\",\"E\":\"86\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554994499640,
+                        "id": "9676548702906",
+                        "text": "[BROWN & FRIENDS Custom Stickers]\nhttps://line.me/S/sticker/13782\n\n@\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122 ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"8\",\"E\":\"27\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555046072253,
+                        "id": "9679394762771",
+                        "text": "gip cel @\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122 ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    }
+                ]
+            },
+            "ub4b81268e037f384ef57bb73d13893bd": {
+                "msg": [
+                    {
+                        "_from": "ub4b81268e037f384ef57bb73d13893bd",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"13\",\"E\":\"25\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554895121438,
+                        "id": "9669542218702",
+                        "text": "Jangan, jelek@Rachel [\ud83c\udd5c] ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    }
+                ]
+            }
+        },
+        "r6603eab3a928b6c63cece95df4bb9b54": {
+            "u7d3cc5e284337b650eba1ca3a631889d": {
+                "msg": [
+                    {
+                        "_from": "u7d3cc5e284337b650eba1ca3a631889d",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554980533342,
+                        "id": "9675227558068",
+                        "text": "@Rachel lu ownernya?",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    },
+                    {
+                        "_from": "u7d3cc5e284337b650eba1ca3a631889d",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"14\",\"E\":\"21\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554980568592,
+                        "id": "9675230702639",
+                        "text": "Owner grup itu@Rachel ",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    },
+                    {
+                        "_from": "u7d3cc5e284337b650eba1ca3a631889d",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554980919091,
+                        "id": "9675261905199",
+                        "text": "@Rachel send kontak owner lu dong",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    }
+                ]
+            },
+            "ua85c11edcf952489acf78618199177bd": {
+                "msg": [
+                    {
+                        "_from": "ua85c11edcf952489acf78618199177bd",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554977902787,
+                        "id": "9674998884025",
+                        "text": "@Rachel bisa Jelaskan Bagaimana Sistem Rp mu dengan Rinci? Tolong kalau bisa.. Kalau gak bisa gak papa",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    },
+                    {
+                        "_from": "ua85c11edcf952489acf78618199177bd",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554979585545,
+                        "id": "9675144072995",
+                        "text": "@Rachel selfbot yak?",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    },
+                    {
+                        "_from": "ua85c11edcf952489acf78618199177bd",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554980940082,
+                        "id": "9675263777346",
+                        "text": "@Rachel ntu Selfbot bikin ndiri ato Bijimana?",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    }
+                ]
+            },
+            "udd77a30978532d12a393b79a945b5873": {
+                "msg": [
+                    {
+                        "_from": "udd77a30978532d12a393b79a945b5873",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"11\",\"M\":\"udf03d72424bacd2fdd780bdd3a362057\"},{\"S\":\"12\",\"E\":\"33\",\"M\":\"ua85c11edcf952489acf78618199177bd\"},{\"S\":\"34\",\"E\":\"45\",\"M\":\"u7d3cc5e284337b650eba1ca3a631889d\"},{\"S\":\"46\",\"E\":\"66\",\"M\":\"u4884f735603cafe031cd086f7a5ea8d6\"},{\"S\":\"67\",\"E\":\"82\",\"M\":\"u407ebf175636dbdf33d885133dfb261e\"},{\"S\":\"83\",\"E\":\"90\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554977569111,
+                        "id": "9674970215807",
+                        "text": "@Vadlan [3] @\u211c\u212e:VAL LUCUFERY\u0141\u015f\u22b0\u2654\u22b1 @Willen \u22b0\u2666\u22b1 @\u0fc8\u22b0\u2654\u22b1\u2297 \u2014Edgar \u2014 2\u06de\u2740\u20b0 @\u2740Zer\u2297\u22b0\u2654\u22b1Gh\u06de2t\u0fc8 @Rachel ",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    },
+                    {
+                        "_from": "udd77a30978532d12a393b79a945b5873",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"7\",\"M\":\"u3123ee53be23d75ef99a95f206ecc978\"}]}"
+                        },
+                        "createdTime": 1554981115271,
+                        "id": "9675279312020",
+                        "text": "@Rachel jawab dulu ",
+                        "to": "r6603eab3a928b6c63cece95df4bb9b54"
+                    }
+                ]
+            }
+        }
+    },
+    "checkPost": true,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "detectAnime": false,
+    "detectUnsend": {},
+    "greet": {
+        "join": {
+            "message": "Hello @!, welcome to group {name}",
+            "status": false
+        },
+        "leave": {
+            "message": "Good bye @!, see you next time",
+            "status": false
+        }
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "da1e197fec08b7b8f364b80fc2c0daff",
+        "displayName": "\u265eRachel\u25b2[\u00b6] \u24d4\u2727551\u2122",
+        "pictureStatus": "0hPcOgyG1pD0xyHiWEI7xwG05bASEFMAkECnpAKVVKBXhdfRwZTC1GLgNJWXQPJkxNTXlHfgVMWXpW",
+        "statusMessage": ".\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u15c0\u1d3a\u1d52\u02e3 \u1da0\u02e1\u1d49\u1d58\u02b3\u1d49\u1d57\ud83e\udd40\u1d0b\u026a\u0274\u0262\u1d05\u1d0f\u1d0d\u1617\n\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\n\u265e\nRachel 551 \n(Undetected)\n\u2225\u279107|\u24d4\u25b2C18\u2225 \ns o l d i e r\n\u2225Tier\u272bX\u2223 Exp:100\u2225\nA K T I F\n\u2225\u269c0|\u272a0|\u27370|\u27271|\u27261\u2225\n\ud83c\udf97Undetected\ud83c\udf97\n\u2225\u27410\u2223\u27420\u2223\u27250\u2223\u27450\u2225\n\u2500\u2500\u2500\u2550\u2550\u2550\u22b0\u2694\u22b1\u2550\u2550\u2550\u2500\u2500\u2500\nT\u1d07\u0280\u1d00 \n\u2225\u2660330\u2014225\u2225\nEx\u1d04\u1d00\n\u2225\u26632\u20140\u2225\nE\u1d0d\u1d07\u0280\u1d00\u029f\u1d05 \n\u2225\u273e0\u20140\u2225\nM\u1d07\u029f\u1d0f\u1d05\u028f \n\u2225\u266c 0\u20140\u2225\nN\u1d00\u1d05\u1d00\n\u2225\u266a 0\u20140\u2225\n\nGold\nT3 Juli\n\n\u2225LG:05\u2223NG:28\u2223GG:-\u2225\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2500\u2500\u2500\u2500\u2550\u2550\u2550\u22b0\u2694\u22b1\u2550\u2550\u2550\u2500\u2500\u2500\u2500\n[\ud83d\udd8c][\u5ba4][\ud83d\udc51][\u2725][\ud83d\udca0][\ud83c\udd5c]\n\"\u265a\u1d04\u0280\u1d07\u1d00\u1d1b\u026a\u1d0f\u0274\u265a\"\n\"\u5ba4ANIROOM\"\n\"Logo'S is Cold But Sweet\"\nslr? pc anda tenggelam."
+    },
+    "restartPoint": null,
+    "setKey": {
+        "key": ".",
+        "status": false
+    }
+}

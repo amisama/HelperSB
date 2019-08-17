@@ -1,0 +1,32 @@
+{
+    "authToken": "uaa81e571f5aa8db8a5a10071b74c9da3:aWF0OiAxNTUxNjMyMTI1MTcxCg==..oYiMUaRvW9c4Vr+cIH9G1vZPeDU=",
+    "restartPoint": null,
+    "role": {
+        "admin": [
+            "u7b61ebd4f200118d22fd2f75b103c029",
+            "u808df60e6af41eda7e5d974f0bfe7612"
+        ],
+        "info": {
+            "ami": {
+                "appType": "WIN10",
+                "authToken": "EHsseT20uWNc8K97mVl9.E2hR1piaey0I+s91Sqpakq.9s5qcW6GTLVEBAF3BZlraT4XxaCFzRnW0BLQ6vMq3io=",
+                "expire": "2019-08-04",
+                "from": "2019-08-03",
+                "group": "c85f68272ea3f04538250f01c628d3bbe",
+                "json": "user/ami.json",
+                "mid": "u7b61ebd4f200118d22fd2f75b103c029"
+            }
+        },
+        "owner": [
+            "u7b61ebd4f200118d22fd2f75b103c029",
+            "u808df60e6af41eda7e5d974f0bfe7612"
+        ],
+        "user": {
+            "u7b61ebd4f200118d22fd2f75b103c029": "ami"
+        }
+    },
+    "setKey": {
+        "key": ".",
+        "status": true
+    }
+}

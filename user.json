@@ -1,0 +1,63 @@
+{
+    "detectAnime": false,
+    "checkContact": false,
+    "detectUnsend": {},
+    "checkMention": {},
+    "autoAdd": {
+        "status": false,
+        "message": "Hello @!, Thanks for add me as your friend",
+        "reply": true
+    },
+    "changeVideoPictureProfile": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "changePictureProfile": false,
+    "greet": {
+        "join": {
+            "status": false,
+            "message": "Hello @!, welcome to group {name}"
+        },
+        "leave": {
+            "status": false,
+            "message": "Good bye @!, see you next time"
+        }
+    },
+    "autoRead": false,
+    "setKey": {
+        "status": false,
+        "key": "#"
+    },
+    "autoRespondMention": {
+        "status": false,
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza"
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "changeGroupPicture": [],
+    "checkPost": false,
+    "changeCoverProfile": false,
+    "restartPoint": null,
+    "myProfile": {
+        "displayName": "\u0337Kyuza",
+        "pictureStatus": "0hV2nPTFnYCR1TKSMSFiF2Sm9sB3AkBw9VK0pPK3IgUCp6G04YZhxGfnMqAyl8HU5LaUcULCUsVC8s",
+        "coverId": "99095ff61e8072c2e93cc4c8710deb3b",
+        "statusMessage": ""
+    },
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "autoRespond": {
+        "status": false,
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza"
+    },
+    "changePictureVideoProfile": false,
+    "autoJoin": {
+        "status": false,
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "ticket": false,
+        "reply": false
+    },
+    "checkSticker": false
+}

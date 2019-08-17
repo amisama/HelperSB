@@ -1,0 +1,95 @@
+{
+    "autoAdd": {
+        "message": "Hello @!, Thanks for add me as your friend",
+        "reply": true,
+        "status": false
+    },
+    "autoJoin": {
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "reply": false,
+        "status": false,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza",
+        "status": false
+    },
+    "autoRespondMention": {
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza",
+        "status": false
+    },
+    "changeCoverProfile": false,
+    "changeGroupPicture": [],
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "changePictureProfile": false,
+    "changePictureVideoProfile": false,
+    "changeVideoPictureProfile": false,
+    "checkContact": false,
+    "checkMention": {
+        "cc41365a176f7609d502c88920f19a262": {
+            "u1367e3ae2ddc1223bccc3cab44dc5499": {
+                "msg": [
+                    {
+                        "_from": "u1367e3ae2ddc1223bccc3cab44dc5499",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"44\", \"E\": \"55\", \"M\": \"u240cdda2e25f475dbe19216e96d88e85\"}, {\"S\": \"163\", \"E\": \"174\", \"M\": \"u5bd3b1b9d424384aa723a52d33b0980b\"}, {\"S\": \"281\", \"E\": \"292\", \"M\": \"ub7b9f48c1bd595c32afecae1b7b9dba1\"}]}"
+                        },
+                        "createdTime": 1555044257740,
+                        "id": "9679271969501",
+                        "text": " \u300c Service \u300d\nType: List Service\nList:\n   1. @ARISXEINSU\n      User Name: aris\n      Expired: 2019-06-09\n      From: 2019-04-10\n      Status Expire: 58 days\n\n   2. @ARISXEINSU\n      User Name: jel\n      Expired: 2019-04-11\n      From: 2019-04-10\n      Status Expire: Expired\n\n   3. @ARISXEINSU\n      User Name: rax\n      Expired: 2019-06-09\n      From: 2019-04-10\n      Status Expire: 58 days\n",
+                        "to": "cc41365a176f7609d502c88920f19a262"
+                    }
+                ]
+            },
+            "u5bd3b1b9d424384aa723a52d33b0980b": {
+                "msg": [
+                    {
+                        "_from": "u5bd3b1b9d424384aa723a52d33b0980b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"13\",\"M\":\"u240cdda2e25f475dbe19216e96d88e85\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555043939219,
+                        "id": "9679250021780",
+                        "text": "@\u0337\u0337Di\u00f8 Elkana rulenya apa? ",
+                        "to": "cc41365a176f7609d502c88920f19a262"
+                    }
+                ]
+            }
+        }
+    },
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "detectAnime": false,
+    "detectUnsend": {},
+    "greet": {
+        "join": {
+            "message": "Hello @!, welcome to group {name}",
+            "status": false
+        },
+        "leave": {
+            "message": "Good bye @!, see you next time",
+            "status": false
+        }
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "1554947748",
+        "displayName": "\u0337\u0337Di\u00f8 Elkana",
+        "pictureStatus": "0hRV0_6k2DDXkNJiex-LpyLjFjAxR6CAsxdUNHHnpzBhkjQkkrZkVEG311B0koFUooZUhFSiEvB0Ak",
+        "statusMessage": "</> Noob Me </>\n\n\u3161 Kelambangan :\n\u271e ' EINS ' Wyvern"
+    },
+    "restartPoint": null,
+    "setKey": {
+        "key": ".",
+        "status": true
+    }
+}

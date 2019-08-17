@@ -1,0 +1,936 @@
+{
+    "autoAdd": {
+        "message": "Hello @! \udbc1\udf05\udbc0\udd2edude\udbff\udfff, Thanks for add me as your friend\udbc1\udf05\udbc0\udd42smile\udbff\udfff\n\nOpen order selfbot. Minat?Pc\udbc1\udf05\udbc0\uddb4Actress/Model\udbff\udfff",
+        "reply": false,
+        "status": false
+    },
+    "autoJoin": {
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "reply": false,
+        "status": false,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza",
+        "status": false
+    },
+    "autoRespondMention": {
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza",
+        "status": false
+    },
+    "changeCoverProfile": false,
+    "changeGroupPicture": [],
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "changePictureProfile": false,
+    "changePictureVideoProfile": false,
+    "changeVideoPictureProfile": false,
+    "checkAnime": true,
+    "checkContact": false,
+    "checkMention": {
+        "c0e841e781d9e3643629d191b30f53c16": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": {
+                "msg": [
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}"
+                        },
+                        "createdTime": 1554118271785,
+                        "id": "9617554150294",
+                        "text": "@\u0337Kyuza\u2694 tanya si ajg ini aja",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}"
+                        },
+                        "createdTime": 1554118447982,
+                        "id": "9617570922370",
+                        "text": "@\u0337Kyuza\u2694 w ccd",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    }
+                ]
+            },
+            "u21a7b739a2467ff6592abd13da1c4b77": {
+                "msg": [
+                    {
+                        "_from": "u21a7b739a2467ff6592abd13da1c4b77",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"26\",\"E\":\"34\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554131050306,
+                        "id": "9618819601287",
+                        "text": "Heheheh Bacot tau ga anda @\u0337Kyuza\u2694 ",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    }
+                ]
+            },
+            "u29040686ea64109c815db48e97b646f0": {
+                "msg": [
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554126568881,
+                        "id": "9618390491920",
+                        "text": "@\u0337Kyuza\u2694 ",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554128820424,
+                        "id": "9618616147962",
+                        "text": "@\u0337Kyuza\u2694 sekali semua random jgN satu\u00b2",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554129163588,
+                        "id": "9618649160803",
+                        "text": "@\u0337Kyuza\u2694 Ada pawang nya disini itu si jumi",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554129645694,
+                        "id": "9618694145028",
+                        "text": "@\u0337Kyuza\u2694 Hei",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554130173841,
+                        "id": "9618742776743",
+                        "text": "@\u0337Kyuza\u2694 Hei pron ke kik ato lep",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554130650052,
+                        "id": "9618784691366",
+                        "text": "@\u0337Kyuza\u2694 Kep\u00b2",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554138348793,
+                        "id": "9619281623730",
+                        "text": "@\u0337Kyuza\u2694 ",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554173954369,
+                        "id": "9621066275036",
+                        "text": "@\u0337Kyuza\u2694 botmu limit? ",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554175920501,
+                        "id": "9621222593658",
+                        "text": "@\u0337Kyuza\u2694 Hei dengar tydak",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u29040686ea64109c815db48e97b646f0",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554176085282,
+                        "id": "9621236173818",
+                        "text": "@\u0337Kyuza\u2694 inti yg sebelah anjeng",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    }
+                ]
+            },
+            "u2b8b99dd8fd0ab633c2b35ed1727ead2": {
+                "msg": [
+                    {
+                        "_from": "u2b8b99dd8fd0ab633c2b35ed1727ead2",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"E\": \"6\", \"M\": \"uaffbfc13815e611f2b8f14f9ef03d71c\", \"S\": \"0\"}, {\"E\": \"13\", \"M\": \"ue04a34b0cc05cfcf38d5346517a2c704\", \"S\": \"7\"}, {\"E\": \"20\", \"M\": \"uc3879adb3ccbc9c9ac66f1fae7a34467\", \"S\": \"14\"}, {\"E\": \"27\", \"M\": \"u4da8dbdafa000642bf7143dcca979c85\", \"S\": \"21\"}, {\"E\": \"34\", \"M\": \"u87a82124f8d563afc656399a04d795f7\", \"S\": \"28\"}, {\"E\": \"41\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\", \"S\": \"35\"}, {\"E\": \"48\", \"M\": \"ud559de623bd62c0442bd2179f00cacf0\", \"S\": \"42\"}, {\"E\": \"55\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\", \"S\": \"49\"}, {\"E\": \"62\", \"M\": \"ud543a715a112911b35fcfa21145e2e91\", \"S\": \"56\"}, {\"E\": \"69\", \"M\": \"u0c7a39ce314197137f056c3e82adc575\", \"S\": \"63\"}, {\"E\": \"76\", \"M\": \"u5e459b6881876c1bf727df1f3e02a431\", \"S\": \"70\"}, {\"E\": \"83\", \"M\": \"u4898e79acf0a6a527e617006446c130b\", \"S\": \"77\"}, {\"E\": \"90\", \"M\": \"u8e606d9acfe14d7d777e0c3f742374c9\", \"S\": \"84\"}, {\"E\": \"97\", \"M\": \"ud8c4d53f17999c8e029827b67af3b06a\", \"S\": \"91\"}, {\"E\": \"104\", \"M\": \"ub3ecd53f8f15b311ee081e7e16ee81c8\", \"S\": \"98\"}, {\"E\": \"111\", \"M\": \"uc72734d2a10c5a8f8562e2f010316e9f\", \"S\": \"105\"}, {\"E\": \"118\", \"M\": \"u5826713722367064df5f4baa0c0a946a\", \"S\": \"112\"}, {\"E\": \"125\", \"M\": \"u6d34bfce16883650339bdbd636476b6a\", \"S\": \"119\"}, {\"E\": \"132\", \"M\": \"u2269b77a798170b82a45bd42a18040f3\", \"S\": \"126\"}, {\"E\": \"139\", \"M\": \"u713ee10930078c29263a50a9a5316ad5\", \"S\": \"133\"}]}"
+                        },
+                        "createdTime": 1554137855640,
+                        "id": "9619256682443",
+                        "text": "@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n@Alan \n",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    },
+                    {
+                        "_from": "u2b8b99dd8fd0ab633c2b35ed1727ead2",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"E\": \"17\", \"M\": \"uaffbfc13815e611f2b8f14f9ef03d71c\", \"S\": \"6\"}, {\"E\": \"35\", \"M\": \"ue04a34b0cc05cfcf38d5346517a2c704\", \"S\": \"24\"}, {\"E\": \"53\", \"M\": \"uc3879adb3ccbc9c9ac66f1fae7a34467\", \"S\": \"42\"}, {\"E\": \"71\", \"M\": \"u4da8dbdafa000642bf7143dcca979c85\", \"S\": \"60\"}, {\"E\": \"89\", \"M\": \"u87a82124f8d563afc656399a04d795f7\", \"S\": \"78\"}, {\"E\": \"107\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\", \"S\": \"96\"}, {\"E\": \"125\", \"M\": \"ud559de623bd62c0442bd2179f00cacf0\", \"S\": \"114\"}, {\"E\": \"143\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\", \"S\": \"132\"}, {\"E\": \"161\", \"M\": \"ud543a715a112911b35fcfa21145e2e91\", \"S\": \"150\"}, {\"E\": \"179\", \"M\": \"u0c7a39ce314197137f056c3e82adc575\", \"S\": \"168\"}, {\"E\": \"197\", \"M\": \"u5e459b6881876c1bf727df1f3e02a431\", \"S\": \"186\"}, {\"E\": \"215\", \"M\": \"u4898e79acf0a6a527e617006446c130b\", \"S\": \"204\"}, {\"E\": \"233\", \"M\": \"u8e606d9acfe14d7d777e0c3f742374c9\", \"S\": \"222\"}, {\"E\": \"251\", \"M\": \"ud8c4d53f17999c8e029827b67af3b06a\", \"S\": \"240\"}, {\"E\": \"269\", \"M\": \"ub3ecd53f8f15b311ee081e7e16ee81c8\", \"S\": \"258\"}, {\"E\": \"287\", \"M\": \"uc72734d2a10c5a8f8562e2f010316e9f\", \"S\": \"276\"}, {\"E\": \"305\", \"M\": \"u5826713722367064df5f4baa0c0a946a\", \"S\": \"294\"}, {\"E\": \"323\", \"M\": \"u6d34bfce16883650339bdbd636476b6a\", \"S\": \"312\"}, {\"E\": \"341\", \"M\": \"u2269b77a798170b82a45bd42a18040f3\", \"S\": \"330\"}, {\"E\": \"360\", \"M\": \"u713ee10930078c29263a50a9a5316ad5\", \"S\": \"349\"}]}"
+                        },
+                        "createdTime": 1554137905687,
+                        "id": "9619259231500",
+                        "text": "\u2502 81. @teamantbot\n\u2502 82. @teamantbot\n\u2502 83. @teamantbot\n\u2502 84. @teamantbot\n\u2502 85. @teamantbot\n\u2502 86. @teamantbot\n\u2502 87. @teamantbot\n\u2502 88. @teamantbot\n\u2502 89. @teamantbot\n\u2502 90. @teamantbot\n\u2502 91. @teamantbot\n\u2502 92. @teamantbot\n\u2502 93. @teamantbot\n\u2502 94. @teamantbot\n\u2502 95. @teamantbot\n\u2502 96. @teamantbot\n\u2502 97. @teamantbot\n\u2502 98. @teamantbot\n\u2502 99. @teamantbot\n\u2502 100. @teamantbot",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    }
+                ]
+            },
+            "ub00f2c67c6ccfb4b3bec0cc9362c60a9": {
+                "msg": [
+                    {
+                        "_from": "ub00f2c67c6ccfb4b3bec0cc9362c60a9",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554175321770,
+                        "id": "9621173587207",
+                        "text": "@\u0337Kyuza\u2694 sebelah gan, yg inti",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    }
+                ]
+            },
+            "ud8c4d53f17999c8e029827b67af3b06a": {
+                "msg": [
+                    {
+                        "_from": "ud8c4d53f17999c8e029827b67af3b06a",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554129644669,
+                        "id": "9618694045294",
+                        "text": "@\u0337Kyuza\u2694 bot lu jelek bego",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    }
+                ]
+            },
+            "ue5e8bbe7216aaef03518534c0d411f43": {
+                "msg": [
+                    {
+                        "_from": "ue5e8bbe7216aaef03518534c0d411f43",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"18\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\", \"E\": \"20\"}]}"
+                        },
+                        "createdTime": 1554129646634,
+                        "id": "9618694222359",
+                        "text": "[ Auto Respond ]\n @x  Kenapa Ada yang Bisa Saya Banting? \ud83d\ude02\ud83d\ude02",
+                        "to": "c0e841e781d9e3643629d191b30f53c16"
+                    }
+                ]
+            }
+        },
+        "c626453f1bab86fbd2313199736ed23d5": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": {
+                "msg": [
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554204958995,
+                        "id": "9623514533571",
+                        "text": "@\u0337Kyuza\u2694 ccd",
+                        "to": "c626453f1bab86fbd2313199736ed23d5"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"6\",\"E\":\"14\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554204991060,
+                        "id": "9623517528743",
+                        "text": "Kasar @\u0337Kyuza\u2694 ",
+                        "to": "c626453f1bab86fbd2313199736ed23d5"
+                    }
+                ]
+            },
+            "u1f6f95bf9aea4097038415a0da275e99": {
+                "msg": [
+                    {
+                        "_from": "u1f6f95bf9aea4097038415a0da275e99",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554202892641,
+                        "id": "9623327679505",
+                        "text": "@\u0337Kyuza\u2694 Jinjit",
+                        "to": "c626453f1bab86fbd2313199736ed23d5"
+                    },
+                    {
+                        "_from": "u1f6f95bf9aea4097038415a0da275e99",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554202935353,
+                        "id": "9623331501674",
+                        "text": "@\u0337Kyuza\u2694 Ga",
+                        "to": "c626453f1bab86fbd2313199736ed23d5"
+                    },
+                    {
+                        "_from": "u1f6f95bf9aea4097038415a0da275e99",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554202968149,
+                        "id": "9623334455349",
+                        "text": "@\u0337Kyuza\u2694 tanya owner sana",
+                        "to": "c626453f1bab86fbd2313199736ed23d5"
+                    },
+                    {
+                        "_from": "u1f6f95bf9aea4097038415a0da275e99",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554202992879,
+                        "id": "9623336668880",
+                        "text": "@\u0337Kyuza\u2694 Anda siapa",
+                        "to": "c626453f1bab86fbd2313199736ed23d5"
+                    }
+                ]
+            },
+            "u3fe9f475d361b8309ec41d3e0195e6b8": {
+                "msg": [
+                    {
+                        "_from": "u3fe9f475d361b8309ec41d3e0195e6b8",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}"
+                        },
+                        "createdTime": 1554204153215,
+                        "id": "9623440834486",
+                        "text": "@\u0337Kyuza\u2694 kaga ",
+                        "to": "c626453f1bab86fbd2313199736ed23d5"
+                    }
+                ]
+            }
+        },
+        "c6ca0fa6a6fbb54991ce05d78628d77be": {
+            "ud5b20787d40ff6d927a5e729abf8266f": {
+                "msg": [
+                    {
+                        "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"44\", \"E\": \"55\", \"M\": \"u009c3c44dc46c33cdc8dd56df896b59b\"}, {\"S\": \"163\", \"E\": \"174\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}]}"
+                        },
+                        "createdTime": 1554122169834,
+                        "id": "9617936995990",
+                        "text": " \u300c Service \u300d\nType: List Service\nList:\n   1. @kevinxmayu \n      User Name: nata\n      Expired: 2019-04-04\n      From: 2019-04-01\n      Status Expire: 3 days\n\n   2. @kevinxmayu \n      User Name: kepin\n      Expired: 2019-04-17\n      From: 2019-02-26\n      Status Expire: 16 days\n",
+                        "to": "c6ca0fa6a6fbb54991ce05d78628d77be"
+                    }
+                ]
+            }
+        },
+        "c7f45d0a0b09fb4c058f72ec421c94ede": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": {
+                "msg": [
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554112254917,
+                        "id": "9617002988699",
+                        "text": "@\u0337Kyuza\u2694 w babyk",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554112383075,
+                        "id": "9617014852850",
+                        "text": "@\u0337Kyuza\u2694 ",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554160365117,
+                        "id": "9620216318959",
+                        "text": "@\u0337Kyuza\u2694 masih okami kan",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"11\",\"E\":\"19\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554193274494,
+                        "id": "9622502114938",
+                        "text": "Mna bot mu @\u0337Kyuza\u2694 ",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    }
+                ]
+            },
+            "uc2675e8a9c17e97ee159731baf12c6f6": {
+                "msg": [
+                    {
+                        "_from": "uc2675e8a9c17e97ee159731baf12c6f6",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"11\",\"E\":\"19\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}"
+                        },
+                        "createdTime": 1554111251976,
+                        "id": "9616909897196",
+                        "text": "mention 20 @\u0337Kyuza\u2694 ",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    },
+                    {
+                        "_from": "uc2675e8a9c17e97ee159731baf12c6f6",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"15\", \"E\": \"28\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"34\", \"E\": \"47\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"53\", \"E\": \"66\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"72\", \"E\": \"85\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"91\", \"E\": \"104\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"110\", \"E\": \"123\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"129\", \"E\": \"142\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"148\", \"E\": \"161\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"167\", \"E\": \"180\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"187\", \"E\": \"200\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"207\", \"E\": \"220\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"227\", \"E\": \"240\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"247\", \"E\": \"260\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"267\", \"E\": \"280\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"287\", \"E\": \"300\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"307\", \"E\": \"320\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"327\", \"E\": \"340\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"347\", \"E\": \"360\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"367\", \"E\": \"380\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"387\", \"E\": \"400\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}]}"
+                        },
+                        "createdTime": 1554111252060,
+                        "id": "9616909901061",
+                        "text": "\u256d\u300c Spam \u300d\u2500\n\u25021. @RhyN It's me \n\u25022. @RhyN It's me \n\u25023. @RhyN It's me \n\u25024. @RhyN It's me \n\u25025. @RhyN It's me \n\u25026. @RhyN It's me \n\u25027. @RhyN It's me \n\u25028. @RhyN It's me \n\u25029. @RhyN It's me \n\u250210. @RhyN It's me \n\u250211. @RhyN It's me \n\u250212. @RhyN It's me \n\u250213. @RhyN It's me \n\u250214. @RhyN It's me \n\u250215. @RhyN It's me \n\u250216. @RhyN It's me \n\u250217. @RhyN It's me \n\u250218. @RhyN It's me \n\u250219. @RhyN It's me \n\u257020. @RhyN It's me ",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    },
+                    {
+                        "_from": "uc2675e8a9c17e97ee159731baf12c6f6",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"19\", \"E\": \"32\", \"M\": \"ueb88c9ce642599bae14c3a2167f95921\"}, {\"S\": \"89\", \"E\": \"102\", \"M\": \"u8c85fef020decf3fa3a53e189371d463\"}, {\"S\": \"108\", \"E\": \"121\", \"M\": \"u0f224758fb0f8cbd54aaf96d521e835d\"}, {\"S\": \"127\", \"E\": \"140\", \"M\": \"u3dacd2076e672f969cabc225746b9f6a\"}, {\"S\": \"146\", \"E\": \"159\", \"M\": \"u3dfc88db92ddea99f51adba53adea454\"}, {\"S\": \"165\", \"E\": \"178\", \"M\": \"u477d8f3a81d63bc3cd688e86e704b492\"}, {\"S\": \"184\", \"E\": \"197\", \"M\": \"u63a398f37f74656c5bc5df4cabf3f3fa\"}, {\"S\": \"203\", \"E\": \"216\", \"M\": \"u6c7645da301682714295338c3e67f570\"}, {\"S\": \"222\", \"E\": \"235\", \"M\": \"u8b004dd91b4e5d9af6d1d29c11baf69d\"}, {\"S\": \"241\", \"E\": \"254\", \"M\": \"ud5b20787d40ff6d927a5e729abf8266f\"}, {\"S\": \"261\", \"E\": \"274\", \"M\": \"ud6118265717806e86b00de2502b8a03c\"}, {\"S\": \"281\", \"E\": \"294\", \"M\": \"uef21ccd597d21ee3d51fab9868e4294b\"}, {\"S\": \"301\", \"E\": \"314\", \"M\": \"uf87980e3f44c5990da0289dd6002dd51\"}, {\"S\": \"321\", \"E\": \"334\", \"M\": \"u596c605e22f2a6b0cb41cb01abeca519\"}, {\"S\": \"341\", \"E\": \"354\", \"M\": \"uc2675e8a9c17e97ee159731baf12c6f6\"}, {\"S\": \"361\", \"E\": \"374\", \"M\": \"u3ee70bfc82df6925ebf5ae0287c14b5a\"}, {\"S\": \"381\", \"E\": \"394\", \"M\": \"u56bba46fcd48c8563bf2fa86a26ecfb7\"}, {\"S\": \"401\", \"E\": \"414\", \"M\": \"u4ed9aa26e86065d852ae31d080b0f61d\"}, {\"S\": \"421\", \"E\": \"434\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"441\", \"E\": \"454\", \"M\": \"u2685fc4f1b801abe7dcfb227dd342324\"}]}"
+                        },
+                        "createdTime": 1554113741681,
+                        "id": "9617138738408",
+                        "text": " \u300c Mention Me \u300d\n - @RhyN It's me  1x Mention\n1. 15 minutes ago\n\u256d\u300c Mention By Name \u300d\u2500\n\u25021. @RhyN It's me \n\u25022. @RhyN It's me \n\u25023. @RhyN It's me \n\u25024. @RhyN It's me \n\u25025. @RhyN It's me \n\u25026. @RhyN It's me \n\u25027. @RhyN It's me \n\u25028. @RhyN It's me \n\u25029. @RhyN It's me \n\u250210. @RhyN It's me \n\u250211. @RhyN It's me \n\u250212. @RhyN It's me \n\u250213. @RhyN It's me \n\u250214. @RhyN It's me \n\u250215. @RhyN It's me \n\u250216. @RhyN It's me \n\u250217. @RhyN It's me \n\u250218. @RhyN It's me \n\u257019. @RhyN It's me ",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    }
+                ]
+            },
+            "ud5b20787d40ff6d927a5e729abf8266f": {
+                "msg": [
+                    {
+                        "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"44\", \"E\": \"55\", \"M\": \"u009c3c44dc46c33cdc8dd56df896b59b\"}, {\"S\": \"163\", \"E\": \"174\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}]}"
+                        },
+                        "createdTime": 1554113897485,
+                        "id": "9617152785333",
+                        "text": " \u300c Service \u300d\nType: List Service\nList:\n   1. @kevinxmayu \n      User Name: nata\n      Expired: 2019-04-04\n      From: 2019-04-01\n      Status Expire: 3 days\n\n   2. @kevinxmayu \n      User Name: kepin\n      Expired: 2019-04-17\n      From: 2019-02-26\n      Status Expire: 16 days\n",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    }
+                ]
+            },
+            "ueb88c9ce642599bae14c3a2167f95921": {
+                "msg": [
+                    {
+                        "_from": "ueb88c9ce642599bae14c3a2167f95921",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"26\", \"E\": \"39\", \"M\": \"u8c85fef020decf3fa3a53e189371d463\"}, {\"S\": \"45\", \"E\": \"58\", \"M\": \"u0f224758fb0f8cbd54aaf96d521e835d\"}, {\"S\": \"64\", \"E\": \"77\", \"M\": \"u3dacd2076e672f969cabc225746b9f6a\"}, {\"S\": \"83\", \"E\": \"96\", \"M\": \"u3dfc88db92ddea99f51adba53adea454\"}, {\"S\": \"102\", \"E\": \"115\", \"M\": \"u477d8f3a81d63bc3cd688e86e704b492\"}, {\"S\": \"121\", \"E\": \"134\", \"M\": \"u63a398f37f74656c5bc5df4cabf3f3fa\"}, {\"S\": \"140\", \"E\": \"153\", \"M\": \"u6c7645da301682714295338c3e67f570\"}, {\"S\": \"159\", \"E\": \"172\", \"M\": \"u8b004dd91b4e5d9af6d1d29c11baf69d\"}, {\"S\": \"178\", \"E\": \"191\", \"M\": \"ud5b20787d40ff6d927a5e729abf8266f\"}, {\"S\": \"198\", \"E\": \"211\", \"M\": \"ud6118265717806e86b00de2502b8a03c\"}, {\"S\": \"218\", \"E\": \"231\", \"M\": \"uef21ccd597d21ee3d51fab9868e4294b\"}, {\"S\": \"238\", \"E\": \"251\", \"M\": \"uf87980e3f44c5990da0289dd6002dd51\"}, {\"S\": \"258\", \"E\": \"271\", \"M\": \"u596c605e22f2a6b0cb41cb01abeca519\"}, {\"S\": \"278\", \"E\": \"291\", \"M\": \"uc2675e8a9c17e97ee159731baf12c6f6\"}, {\"S\": \"298\", \"E\": \"311\", \"M\": \"u3ee70bfc82df6925ebf5ae0287c14b5a\"}, {\"S\": \"318\", \"E\": \"331\", \"M\": \"u56bba46fcd48c8563bf2fa86a26ecfb7\"}, {\"S\": \"338\", \"E\": \"351\", \"M\": \"u4ed9aa26e86065d852ae31d080b0f61d\"}, {\"S\": \"358\", \"E\": \"371\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"378\", \"E\": \"391\", \"M\": \"u2685fc4f1b801abe7dcfb227dd342324\"}]}"
+                        },
+                        "createdTime": 1554112781688,
+                        "id": "9617051577382",
+                        "text": "\u256d\u300c Mention By Name \u300d\u2500\n\u25021. @RhyN It's me \n\u25022. @RhyN It's me \n\u25023. @RhyN It's me \n\u25024. @RhyN It's me \n\u25025. @RhyN It's me \n\u25026. @RhyN It's me \n\u25027. @RhyN It's me \n\u25028. @RhyN It's me \n\u25029. @RhyN It's me \n\u250210. @RhyN It's me \n\u250211. @RhyN It's me \n\u250212. @RhyN It's me \n\u250213. @RhyN It's me \n\u250214. @RhyN It's me \n\u250215. @RhyN It's me \n\u250216. @RhyN It's me \n\u250217. @RhyN It's me \n\u250218. @RhyN It's me \n\u257019. @RhyN It's me ",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    }
+                ]
+            }
+        },
+        "c96c9dcf1c95219eff5be7c0ab995943b": {
+            "u4373bb9d376b38e547aaf8548cba4d73": {
+                "msg": [
+                    {
+                        "_from": "u4373bb9d376b38e547aaf8548cba4d73",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"19\",\"E\":\"27\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554130363805,
+                        "id": "9618759613947",
+                        "text": "reinpit grup okami @\u0337Kyuza\u2694 ",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            },
+            "udeda37cf37d48d53b2533c39af58e43f": {
+                "msg": [
+                    {
+                        "_from": "udeda37cf37d48d53b2533c39af58e43f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "false"
+                        },
+                        "createdTime": 1554131474073,
+                        "id": "9618854768947",
+                        "text": "@\u0337Kyuza\u2694 inv grup vin",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "udeda37cf37d48d53b2533c39af58e43f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "false",
+                            "message_relation_server_message_id": "9620151410728",
+                            "message_relation_service_code": "talk",
+                            "message_relation_type_code": "reply"
+                        },
+                        "createdTime": 1554160899843,
+                        "id": "9620245237523",
+                        "text": "@\u0337Kyuza\u2694 grup anime lah",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    },
+                    {
+                        "_from": "udeda37cf37d48d53b2533c39af58e43f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "false"
+                        },
+                        "createdTime": 1554202814442,
+                        "id": "9623320674726",
+                        "text": "@\u0337Kyuza\u2694 ",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            }
+        },
+        "ce8cd8e38689e71382195894c1ee7f582": {
+            "u3123ee53be23d75ef99a95f206ecc978": {
+                "msg": [
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554120171223,
+                        "id": "9617738636766",
+                        "text": "@\u0337Kyuza\u2694 widi anjiiiirrrrr",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "EMTVER": "3",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554120491746,
+                        "id": "9617770164368",
+                        "text": "@\u0337Kyuza\u2694 kuy join, bantu sampe lepel 20\udbc0\udc94",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554120924325,
+                        "id": "9617812293446",
+                        "text": "@\u0337Kyuza\u2694 join miii\udbc3\ude02\udbc0\udd37sniffle\udbff\udfff",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554121299601,
+                        "id": "9617848586781",
+                        "text": "@\u0337Kyuza\u2694 ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554121530864,
+                        "id": "9617872004861",
+                        "text": "@\u0337Kyuza\u2694 udah",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554121579626,
+                        "id": "9617876937534",
+                        "text": "@\u0337Kyuza\u2694 ",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554121827874,
+                        "id": "9617902164855",
+                        "text": "@\u0337Kyuza\u2694 udahh yg speeeelll ajggggg",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554121858343,
+                        "id": "9617905265382",
+                        "text": "@\u0337Kyuza\u2694 join lagi:v, hardcore\udbc1\udf05\udbc0\udd54Har Har\udbff\udfff",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    },
+                    {
+                        "_from": "u3123ee53be23d75ef99a95f206ecc978",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"8\",\"M\":\"u48a5866531b8b1442e5351179cfb423c\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554121959314,
+                        "id": "9617915460783",
+                        "text": "@\u0337Kyuza\u2694 liat2",
+                        "to": "ce8cd8e38689e71382195894c1ee7f582"
+                    }
+                ]
+            }
+        },
+        "cf597bd5c7d3da7d1a85b121ebd4f10b0": {
+            "u1367e3ae2ddc1223bccc3cab44dc5499": {
+                "msg": [
+                    {
+                        "_from": "u1367e3ae2ddc1223bccc3cab44dc5499",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"0\", \"E\": \"11\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"30\", \"E\": \"41\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}]}"
+                        },
+                        "createdTime": 1554206682859,
+                        "id": "9623677515604",
+                        "text": "@Arisxeins  thanks for invite @Arisxeins , ketik 'Unmuted' untuk menggunakan bot\nJoin Our Square to see about Info This Bot\nhttps://line.me/ti/g2/mGAp1mupefBVDgLpHzZ2dxVvom8CrNsWnxG8K7Tl3Zs0eh3Y0fswd5fpyGXdutdX",
+                        "to": "cf597bd5c7d3da7d1a85b121ebd4f10b0"
+                    }
+                ]
+            }
+        }
+    },
+    "checkPost": true,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "detectAnime": false,
+    "detectUnsend": {
+        "c41ee65a4bd4bd856aa37f8b03b79f41d": {
+            "9616775463767": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {
+                        "AGENT_ICON": "https://obs.line-apps.com/os/p/ud5b20787d40ff6d927a5e729abf8266f",
+                        "AGENT_LINK": "line://ti/p/~cen.tod",
+                        "AGENT_NAME": "Restart"
+                    },
+                    "contentType": 0,
+                    "createdTime": 1554109842906,
+                    "id": "9616775463767",
+                    "location": null,
+                    "text": " \u300c Restart \u300d\nType: Restart Program\nRestarting...",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9616775806985": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {
+                        "AGENT_ICON": "https://obs.line-apps.com/os/p/ud5b20787d40ff6d927a5e729abf8266f",
+                        "AGENT_LINK": "line://ti/p/~cen.tod",
+                        "AGENT_NAME": "Restart"
+                    },
+                    "contentType": 0,
+                    "createdTime": 1554109846505,
+                    "id": "9616775806985",
+                    "location": null,
+                    "text": " \u300c Restart \u300d\nType: Restart Program\nSuccess Restart !",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9616780525532": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {
+                        "AGENT_ICON": "https://obs.line-apps.com/os/p/ud5b20787d40ff6d927a5e729abf8266f",
+                        "AGENT_LINK": "line://ti/p/~cen.tod",
+                        "AGENT_NAME": "Restart"
+                    },
+                    "contentType": 0,
+                    "createdTime": 1554109894529,
+                    "id": "9616780525532",
+                    "location": null,
+                    "text": " \u300c Restart \u300d\nType: Restart Program\nRestarting...",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9616780857437": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {
+                        "AGENT_ICON": "https://obs.line-apps.com/os/p/ud5b20787d40ff6d927a5e729abf8266f",
+                        "AGENT_LINK": "line://ti/p/~cen.tod",
+                        "AGENT_NAME": "Restart"
+                    },
+                    "contentType": 0,
+                    "createdTime": 1554109898072,
+                    "id": "9616780857437",
+                    "location": null,
+                    "text": " \u300c Restart \u300d\nType: Restart Program\nSuccess Restart !",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9616781027058": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554109899697,
+                    "id": "9616781027058",
+                    "location": null,
+                    "text": "Error : invalid syntax (<string>, line 2)",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9616781274599": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554109902220,
+                    "id": "9616781274599",
+                    "location": null,
+                    "text": "a",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9616787351505": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {
+                        "STKID": "51626504",
+                        "STKOPT": "A",
+                        "STKPKGID": "11538",
+                        "STKTXT": "[Sticker]",
+                        "STKVER": "100"
+                    },
+                    "contentType": 7,
+                    "createdTime": 1554109964250,
+                    "id": "9616787351505",
+                    "location": null,
+                    "text": "",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9616791350504": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {
+                        "STKID": "51626504",
+                        "STKOPT": "A",
+                        "STKPKGID": "11538",
+                        "STKTXT": "[Sticker]",
+                        "STKVER": "100"
+                    },
+                    "contentType": 7,
+                    "createdTime": 1554110005431,
+                    "id": "9616791350504",
+                    "location": null,
+                    "text": "",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9621770607580": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554183169995,
+                    "id": "9621770607580",
+                    "location": null,
+                    "text": "Hi",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9621770847345": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554183173262,
+                    "id": "9621770847345",
+                    "location": null,
+                    "text": "Hi",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9621774046969": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554183217902,
+                    "id": "9621774046969",
+                    "location": null,
+                    "text": "Hi",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9622687352043": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554195547042,
+                    "id": "9622687352043",
+                    "location": null,
+                    "text": "Hi",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9622805866177": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554196928799,
+                    "id": "9622805866177",
+                    "location": null,
+                    "text": "Hi too !",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9622808678422": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554196961238,
+                    "id": "9622808678422",
+                    "location": null,
+                    "text": " \u300c Speed \u300d\nType: Speed\n - Took : 0.017ms\n - Taken: 0.0168654919",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9622808753508": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554196962192,
+                    "id": "9622808753508",
+                    "location": null,
+                    "text": "Hi too !",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9622808962841": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554196964536,
+                    "id": "9622808962841",
+                    "location": null,
+                    "text": " \u300c Speed \u300d\nType: Speed\n - Took : 0.011ms\n - Taken: 0.0106470585",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9622809186173": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554196967145,
+                    "id": "9622809186173",
+                    "location": null,
+                    "text": " \u300c Speed \u300d\nType: Speed\n - Took : 0.008ms\n - Taken: 0.0083386898",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            },
+            "9622809399585": {
+                "msg": {
+                    "_from": "ud5b20787d40ff6d927a5e729abf8266f",
+                    "contentMetadata": {},
+                    "contentType": 0,
+                    "createdTime": 1554196969647,
+                    "id": "9622809399585",
+                    "location": null,
+                    "text": " \u300c Speed \u300d\nType: Speed\n - Took : 0.012ms\n - Taken: 0.0124785900",
+                    "to": "c41ee65a4bd4bd856aa37f8b03b79f41d"
+                }
+            }
+        }
+    },
+    "greet": {
+        "join": {
+            "message": "Hello @!, welcome to group {name}",
+            "status": false
+        },
+        "leave": {
+            "message": "Good bye @!, see you next time",
+            "status": false
+        }
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "4537efc63599411ac46825f3f1489b9d",
+        "displayName": "\u0337Kyuza\u2694",
+        "pictureStatus": "0hV2nPMypfCR1TKSPhfZp2Sm9sB3AkBw9VK0pPK3IgUCp6G04YZhxGfnMqAyl8HU5LaUcULCUsVC8s",
+        "statusMessage": "Miskin kuota.\n\n\n\n\n\n\n\nMayu\u2665"
+    },
+    "restartPoint": null,
+    "setKey": {
+        "key": "#",
+        "status": true
+    }
+}

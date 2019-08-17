@@ -1,0 +1,98 @@
+{
+    "autoAdd": {
+        "message": "Hello @!, Thanks for add me as your friend",
+        "reply": true,
+        "status": false
+    },
+    "autoJoin": {
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "reply": false,
+        "status": true,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza",
+        "status": false
+    },
+    "autoRespondMention": {
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza",
+        "status": false
+    },
+    "changeCoverProfile": false,
+    "changeGroupPicture": [],
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "changePictureProfile": false,
+    "changePictureVideoProfile": false,
+    "changeVideoPictureProfile": false,
+    "checkContact": false,
+    "checkMention": {
+        "c0211ab59fab004deb882591d36cd53ab": {
+            "u81100f5089632a2c976b9c1e6506860a": {
+                "msg": [
+                    {
+                        "_from": "u81100f5089632a2c976b9c1e6506860a",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"4\",\"M\":\"u7b61ebd4f200118d22fd2f75b103c029\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1564831977613,
+                        "id": "10327412453765",
+                        "text": "@Ami Oeey",
+                        "to": "c0211ab59fab004deb882591d36cd53ab"
+                    }
+                ]
+            }
+        },
+        "cdf26523f77c64dd9e8737532294c8e28": {
+            "uac0d56a02400723c14a9996a62e9740f": {
+                "msg": [
+                    {
+                        "_from": "uac0d56a02400723c14a9996a62e9740f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"4\",\"M\":\"u7b61ebd4f200118d22fd2f75b103c029\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1564830006179,
+                        "id": "10327256558726",
+                        "text": "@Ami pc",
+                        "to": "cdf26523f77c64dd9e8737532294c8e28"
+                    }
+                ]
+            }
+        }
+    },
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "detectAnime": false,
+    "detectUnsend": {},
+    "greet": {
+        "join": {
+            "message": "Hello @!, welcome to group {name}",
+            "status": false
+        },
+        "leave": {
+            "message": "Good bye @!, see you next time",
+            "status": false
+        }
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "f900194ee24fee28ca04a62184520660",
+        "displayName": "Ami",
+        "pictureStatus": "0hg-5bP3riOAIIGxNXRaZHVTReNm9_NT5KcHskYy1PNWcgfHxVNX13bXgYZWVwKChSMC53ZS9JZzEt",
+        "statusMessage": "   -SILENT IS GOLD-  \n       Sell\nCoin Webtoon\nCoin Line\nDomain google\nAccount DO $50 \n\n\n\n\n(emoji)(emoji)(emoji)(emoji)(emoji)\n(emoji)(emoji)(emoji)(emoji)(emoji)\n(emoji)(emoji)(emoji)(emoji)(emoji)\n(emoji)(emoji)(emoji)(emoji)(emoji)\nFake friend everywhere\n\nwww.amitopup.com"
+    },
+    "restartPoint": null,
+    "setKey": {
+        "key": "#",
+        "status": false
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "autoAdd": {
+        "message": "Hello @!, Thanks for add me as your friend",
+        "reply": true,
+        "status": false
+    },
+    "autoJoin": {
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "reply": false,
+        "status": false,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza",
+        "status": false
+    },
+    "autoRespondMention": {
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza",
+        "status": false
+    },
+    "changeCoverProfile": false,
+    "changeGroupPicture": [],
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "changePictureProfile": false,
+    "changePictureVideoProfile": false,
+    "changeVideoPictureProfile": false,
+    "checkContact": false,
+    "checkMention": {
+        "c5e2db39c86692b702359bfe7f4ca5281": {
+            "u5588360c09773e534df2103128c7fcdf": {
+                "msg": [
+                    {
+                        "_from": "u5588360c09773e534df2103128c7fcdf",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"27\",\"M\":\"uc2675e8a9c17e97ee159731baf12c6f6\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554898987262,
+                        "id": "9669907834403",
+                        "text": "@\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7 blm lihat anjir",
+                        "to": "c5e2db39c86692b702359bfe7f4ca5281"
+                    },
+                    {
+                        "_from": "u5588360c09773e534df2103128c7fcdf",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"27\",\"M\":\"uc2675e8a9c17e97ee159731baf12c6f6\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554899062814,
+                        "id": "9669915057248",
+                        "text": "@\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7 lu send apa tadi",
+                        "to": "c5e2db39c86692b702359bfe7f4ca5281"
+                    },
+                    {
+                        "_from": "u5588360c09773e534df2103128c7fcdf",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"27\",\"M\":\"uc2675e8a9c17e97ee159731baf12c6f6\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554899113578,
+                        "id": "9669919925565",
+                        "text": "@\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7 blm wk",
+                        "to": "c5e2db39c86692b702359bfe7f4ca5281"
+                    },
+                    {
+                        "_from": "u5588360c09773e534df2103128c7fcdf",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"27\",\"M\":\"uc2675e8a9c17e97ee159731baf12c6f6\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554941939065,
+                        "id": "9672443233450",
+                        "text": "@\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7 wanjir",
+                        "to": "c5e2db39c86692b702359bfe7f4ca5281"
+                    },
+                    {
+                        "_from": "u5588360c09773e534df2103128c7fcdf",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"27\",\"M\":\"uc2675e8a9c17e97ee159731baf12c6f6\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554953680235,
+                        "id": "9673203121099",
+                        "text": "@\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7 emg",
+                        "to": "c5e2db39c86692b702359bfe7f4ca5281"
+                    }
+                ]
+            },
+            "uaca8e210643ef63d075ee4a927ca43b2": {
+                "msg": [
+                    {
+                        "_from": "uaca8e210643ef63d075ee4a927ca43b2",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"27\",\"M\":\"uc2675e8a9c17e97ee159731baf12c6f6\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554953397093,
+                        "id": "9673181406047",
+                        "text": "@\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7 tuh script",
+                        "to": "c5e2db39c86692b702359bfe7f4ca5281"
+                    }
+                ]
+            }
+        },
+        "c7f45d0a0b09fb4c058f72ec421c94ede": {
+            "u808df60e6af41eda7e5d974f0bfe7612": {
+                "msg": [
+                    {
+                        "_from": "u808df60e6af41eda7e5d974f0bfe7612",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"27\",\"M\":\"uc2675e8a9c17e97ee159731baf12c6f6\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554905810545,
+                        "id": "9670581872235",
+                        "text": "@\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7 ",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    }
+                ]
+            },
+            "ubfdbf70259a2b28fba64e1655532c63f": {
+                "msg": [
+                    {
+                        "_from": "ubfdbf70259a2b28fba64e1655532c63f",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"44\", \"E\": \"55\", \"M\": \"u3123ee53be23d75ef99a95f206ecc978\"}, {\"S\": \"165\", \"E\": \"176\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"288\", \"E\": \"299\", \"M\": \"u48a5866531b8b1442e5351179cfb423c\"}, {\"S\": \"408\", \"E\": \"419\", \"M\": \"u60b72526c2b939a3c9b71d25a9a1a183\"}, {\"S\": \"530\", \"E\": \"541\", \"M\": \"u808df60e6af41eda7e5d974f0bfe7612\"}, {\"S\": \"652\", \"E\": \"663\", \"M\": \"ub0c358de5f43bd895e83c4e80d2dd835\"}, {\"S\": \"775\", \"E\": \"786\", \"M\": \"uc2675e8a9c17e97ee159731baf12c6f6\"}, {\"S\": \"895\", \"E\": \"906\", \"M\": \"udeda37cf37d48d53b2533c39af58e43f\"}, {\"S\": \"1014\", \"E\": \"1025\", \"M\": \"ueb88c9ce642599bae14c3a2167f95921\"}]}"
+                        },
+                        "createdTime": 1554899768513,
+                        "id": "9669984184956",
+                        "text": " \u300c Service \u300d\nType: List Service\nList:\n   1. @kevinxmayu \n      User Name: racel\n      Expired: 2019-05-08\n      From: 2019-04-08\n      Status Expire: 28 days\n\n   2. @kevinxmayu \n      User Name: nopalkon\n      Expired: 2019-04-18\n      From: 2019-04-08\n      Status Expire: 8 days\n\n   3. @kevinxmayu \n      User Name: kepin\n      Expired: 2019-04-17\n      From: 2019-02-26\n      Status Expire: 7 days\n\n   4. @kevinxmayu \n      User Name: wildan\n      Expired: 2019-04-10\n      From: 2019-04-09\n      Status Expire: Expired\n\n   5. @kevinxmayu \n      User Name: kepin2\n      Expired: 2019-05-27\n      From: 2019-04-02\n      Status Expire: 47 days\n\n   6. @kevinxmayu \n      User Name: alekontol\n      Expired: 2019-04-11\n      From: 2019-04-09\n      Status Expire: 1 day\n\n   7. @kevinxmayu \n      User Name: putra\n      Expired: 2019-04-19\n      From: 2019-04-09\n      Status Expire: 9 days\n\n   8. @kevinxmayu \n      User Name: alin\n      Expired: 2019-04-18\n      From: 2019-04-08\n      Status Expire: 8 days\n\n   9. @kevinxmayu \n      User Name: bagas\n      Expired: 2019-04-10\n      From: 2019-04-09\n      Status Expire: Expired\n",
+                        "to": "c7f45d0a0b09fb4c058f72ec421c94ede"
+                    }
+                ]
+            }
+        }
+    },
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "detectAnime": false,
+    "detectUnsend": {},
+    "greet": {
+        "join": {
+            "message": "Hello @!, welcome to group {name}",
+            "status": false
+        },
+        "leave": {
+            "message": "Good bye @!, see you next time",
+            "status": false
+        }
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "7fd386db0023d9e189151b678bafd05d",
+        "displayName": "\ud835\udcd8\ud835\udcf4\ud835\udcfe\ud835\udcfd\ud835\udcea \ud80c\udced \ud835\udcd0\ud835\udcf5\ud835\udcfb\ud835\udcf2\ud835\udcea\ud835\udcf7",
+        "pictureStatus": "0h3_T9o4CobHBpQEa6gx8TJ1UFYh0ebmo4EXQgEUpEZkkUeHkmU3IrEBgUMkRMdikmBnZ0Fk8SNRdD",
+        "statusMessage": "Save me if i become my demons"
+    },
+    "restartPoint": null,
+    "setKey": {
+        "key": "#",
+        "status": false
+    }
+}

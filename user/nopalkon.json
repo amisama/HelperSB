@@ -1,0 +1,619 @@
+{
+    "autoAdd": {
+        "message": "Hello @!, Thanks for add me as your friend",
+        "reply": true,
+        "status": false
+    },
+    "autoJoin": {
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Kyuza",
+        "reply": false,
+        "status": false,
+        "ticket": true
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Kyuza",
+        "status": false
+    },
+    "autoRespondMention": {
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Kyuza",
+        "status": false
+    },
+    "changeCoverProfile": false,
+    "changeGroupPicture": [],
+    "changePictureAndVideoProfile": {
+        "status": 0,
+        "to": []
+    },
+    "changePictureProfile": false,
+    "changePictureVideoProfile": false,
+    "changeVideoPictureProfile": false,
+    "checkContact": false,
+    "checkMention": {
+        "c04c02b2707a26f1b25ff20ab5e3a09f0": {
+            "ub6fe6735532b821461696b3e08241472": {
+                "msg": [
+                    {
+                        "_from": "ub6fe6735532b821461696b3e08241472",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"S\": \"0\", \"E\": \"6\", \"M\": \"u37543b9ca6189f321761234b3f6b7ce0\"}, {\"S\": \"7\", \"E\": \"13\", \"M\": \"u2bcacac0906823285374cafd6a5756a0\"}, {\"S\": \"14\", \"E\": \"20\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"21\", \"E\": \"27\", \"M\": \"uc743f201d8b9a790f9f9caabd720701b\"}, {\"S\": \"28\", \"E\": \"34\", \"M\": \"u484e596c9b47eee39ca91601749a918a\"}, {\"S\": \"35\", \"E\": \"41\", \"M\": \"u26ed9c30b38149b9e16d10e3061155a6\"}, {\"S\": \"42\", \"E\": \"48\", \"M\": \"uab37e94d1e3520e7bdef824b64b369e8\"}, {\"S\": \"49\", \"E\": \"55\", \"M\": \"u38f46ad4e2a6ef3b16e5e8edbb69af2a\"}, {\"S\": \"56\", \"E\": \"62\", \"M\": \"u1835e0774b7aac0a0e48b4f0c9eff8fa\"}, {\"S\": \"63\", \"E\": \"69\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"70\", \"E\": \"76\", \"M\": \"u5b25e15eedb8c83552641ea2fb694070\"}, {\"S\": \"77\", \"E\": \"83\", \"M\": \"uff1d385d2e9ac7314c73f7558b73817d\"}, {\"S\": \"84\", \"E\": \"90\", \"M\": \"ub0103eac9c8cf575f2b77e3f5b906795\"}, {\"S\": \"91\", \"E\": \"97\", \"M\": \"u56d3efee6b4cd632cb80003cba5c97ee\"}, {\"S\": \"98\", \"E\": \"104\", \"M\": \"ufe552a036097f6c2aa9b02e1248ac1c8\"}, {\"S\": \"105\", \"E\": \"111\", \"M\": \"u8b72894bb2612f0c62583f6edfcf1189\"}, {\"S\": \"112\", \"E\": \"118\", \"M\": \"u1ce4942e82133bc273b523291fca415f\"}, {\"S\": \"119\", \"E\": \"125\", \"M\": \"u76d52aacb3cbf9481504b8059bc5f870\"}, {\"S\": \"126\", \"E\": \"132\", \"M\": \"ube50bcbcfb7109379838e10a8dd998ab\"}, {\"S\": \"133\", \"E\": \"139\", \"M\": \"u6a43dbf148104e1c537868a54090e2c4\"}]}"
+                        },
+                        "createdTime": 1554872416083,
+                        "id": "9667761274044",
+                        "text": "@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n",
+                        "to": "c04c02b2707a26f1b25ff20ab5e3a09f0"
+                    },
+                    {
+                        "_from": "ub6fe6735532b821461696b3e08241472",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\": [{\"S\": \"0\", \"E\": \"6\", \"M\": \"u37543b9ca6189f321761234b3f6b7ce0\"}, {\"S\": \"7\", \"E\": \"13\", \"M\": \"u2bcacac0906823285374cafd6a5756a0\"}, {\"S\": \"14\", \"E\": \"20\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"21\", \"E\": \"27\", \"M\": \"uc743f201d8b9a790f9f9caabd720701b\"}, {\"S\": \"28\", \"E\": \"34\", \"M\": \"u484e596c9b47eee39ca91601749a918a\"}, {\"S\": \"35\", \"E\": \"41\", \"M\": \"u26ed9c30b38149b9e16d10e3061155a6\"}, {\"S\": \"42\", \"E\": \"48\", \"M\": \"uab37e94d1e3520e7bdef824b64b369e8\"}, {\"S\": \"49\", \"E\": \"55\", \"M\": \"u38f46ad4e2a6ef3b16e5e8edbb69af2a\"}, {\"S\": \"56\", \"E\": \"62\", \"M\": \"u1835e0774b7aac0a0e48b4f0c9eff8fa\"}, {\"S\": \"63\", \"E\": \"69\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"70\", \"E\": \"76\", \"M\": \"u5b25e15eedb8c83552641ea2fb694070\"}, {\"S\": \"77\", \"E\": \"83\", \"M\": \"uff1d385d2e9ac7314c73f7558b73817d\"}, {\"S\": \"84\", \"E\": \"90\", \"M\": \"ub0103eac9c8cf575f2b77e3f5b906795\"}, {\"S\": \"91\", \"E\": \"97\", \"M\": \"u56d3efee6b4cd632cb80003cba5c97ee\"}, {\"S\": \"98\", \"E\": \"104\", \"M\": \"ufe552a036097f6c2aa9b02e1248ac1c8\"}, {\"S\": \"105\", \"E\": \"111\", \"M\": \"u8b72894bb2612f0c62583f6edfcf1189\"}, {\"S\": \"112\", \"E\": \"118\", \"M\": \"u1ce4942e82133bc273b523291fca415f\"}, {\"S\": \"119\", \"E\": \"125\", \"M\": \"u76d52aacb3cbf9481504b8059bc5f870\"}, {\"S\": \"126\", \"E\": \"132\", \"M\": \"ube50bcbcfb7109379838e10a8dd998ab\"}, {\"S\": \"133\", \"E\": \"139\", \"M\": \"u6a43dbf148104e1c537868a54090e2c4\"}]}"
+                        },
+                        "createdTime": 1554893374184,
+                        "id": "9669385991540",
+                        "text": "@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n@Zero \n",
+                        "to": "c04c02b2707a26f1b25ff20ab5e3a09f0"
+                    }
+                ]
+            }
+        },
+        "c1110c60e1e8f85dda2a805cffeaba175": {
+            "u7eacf1df769225a00ec981cbd5830e23": {
+                "msg": [
+                    {
+                        "_from": "u7eacf1df769225a00ec981cbd5830e23",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555080451995,
+                        "id": "9682266834007",
+                        "text": "@Linoada fullnya?",
+                        "to": "c1110c60e1e8f85dda2a805cffeaba175"
+                    }
+                ]
+            }
+        },
+        "c18fc89363b2853a3937db62811a2c332": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554772213842,
+                        "id": "9660939958863",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c18fc89363b2853a3937db62811a2c332"
+                    },
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330704,
+                        "id": "9661073059938",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c18fc89363b2853a3937db62811a2c332"
+                    }
+                ]
+            }
+        },
+        "c276712a0ef280e4da5c4954bf5273b41": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554770988115,
+                        "id": "9660864560303",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c276712a0ef280e4da5c4954bf5273b41"
+                    },
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330473,
+                        "id": "9661073032725",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c276712a0ef280e4da5c4954bf5273b41"
+                    }
+                ]
+            }
+        },
+        "c3c271f60a96a7e32652a59a6114bd5d0": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554772213901,
+                        "id": "9660939958864",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c3c271f60a96a7e32652a59a6114bd5d0"
+                    },
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330820,
+                        "id": "9661073059939",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c3c271f60a96a7e32652a59a6114bd5d0"
+                    }
+                ]
+            }
+        },
+        "c3d3579f97505fd95a7b2e64ad2447539": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": {
+                "msg": [
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554780967383,
+                        "id": "9661537370807",
+                        "text": "@Lino ada lagi gk",
+                        "to": "c3d3579f97505fd95a7b2e64ad2447539"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"7\",\"E\":\"12\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554782873755,
+                        "id": "9661688058181",
+                        "text": "Clonep @Lino ",
+                        "to": "c3d3579f97505fd95a7b2e64ad2447539"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"30\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554782885295,
+                        "id": "9661688937256",
+                        "text": " \u300c Success clone @ meka arfine  profile \u300d",
+                        "to": "c3d3579f97505fd95a7b2e64ad2447539"
+                    }
+                ]
+            }
+        },
+        "c46c76b29371ae16fab16f20286a61d5d": {
+            "ucee3ff510b93c1f3aa3d66800eac1f87": {
+                "msg": [
+                    {
+                        "_from": "ucee3ff510b93c1f3aa3d66800eac1f87",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1555071547962,
+                        "id": "9681426894518",
+                        "text": "@Lino si ambia pal",
+                        "to": "c46c76b29371ae16fab16f20286a61d5d"
+                    },
+                    {
+                        "_from": "ucee3ff510b93c1f3aa3d66800eac1f87",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1555071554231,
+                        "id": "9681427466757",
+                        "text": "@Lino 10lebih",
+                        "to": "c46c76b29371ae16fab16f20286a61d5d"
+                    }
+                ]
+            }
+        },
+        "c4b0114bb5f98a956dc030a4d2a004fbb": {
+            "ucc16e05acb6ff34d4e3db1a8a2eda5c7": {
+                "msg": [
+                    {
+                        "_from": "ucc16e05acb6ff34d4e3db1a8a2eda5c7",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554996806481,
+                        "id": "9676722522883",
+                        "text": "@Lino lu mw bc apa?",
+                        "to": "c4b0114bb5f98a956dc030a4d2a004fbb"
+                    }
+                ]
+            }
+        },
+        "c65e1f4aea3f8919f313ce1aa695b7e47": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554772213948,
+                        "id": "9660939973517",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c65e1f4aea3f8919f313ce1aa695b7e47"
+                    },
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330905,
+                        "id": "9661073059941",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c65e1f4aea3f8919f313ce1aa695b7e47"
+                    }
+                ]
+            }
+        },
+        "c6664a142cf4b227cf6e097846d07789c": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554772213970,
+                        "id": "9660939973518",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c6664a142cf4b227cf6e097846d07789c"
+                    },
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330998,
+                        "id": "9661073078354",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c6664a142cf4b227cf6e097846d07789c"
+                    }
+                ]
+            }
+        },
+        "c78c04e2a00a73301204db0c6d9ca5e3c": {
+            "uef557529f9605adac29fb31dc847ac74": {
+                "msg": [
+                    {
+                        "_from": "uef557529f9605adac29fb31dc847ac74",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554983906359,
+                        "id": "9675533991093",
+                        "text": "@Lino udh gw add",
+                        "to": "c78c04e2a00a73301204db0c6d9ca5e3c"
+                    },
+                    {
+                        "_from": "uef557529f9605adac29fb31dc847ac74",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554983929521,
+                        "id": "9675536190993",
+                        "text": "@Lino like jarang",
+                        "to": "c78c04e2a00a73301204db0c6d9ca5e3c"
+                    }
+                ]
+            }
+        },
+        "c847b93a52ac3a53a96f22b4225082ecc": {
+            "u7eacf1df769225a00ec981cbd5830e23": {
+                "msg": [
+                    {
+                        "_from": "u7eacf1df769225a00ec981cbd5830e23",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1554785788410,
+                        "id": "9661900611619",
+                        "text": "@Lino oa lu?",
+                        "to": "c847b93a52ac3a53a96f22b4225082ecc"
+                    }
+                ]
+            },
+            "u87ab2d15d1229a8ef9ff54ed56d26f31": {
+                "msg": [
+                    {
+                        "_from": "u87ab2d15d1229a8ef9ff54ed56d26f31",
+                        "contentMetadata": {
+                            "EMTVER": "4",
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"48\",\"E\":\"53\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1555080320962,
+                        "id": "9682255512888",
+                        "text": "maaf gw ada.. jadi bisa share yg lebih menarik? @Lino",
+                        "to": "c847b93a52ac3a53a96f22b4225082ecc"
+                    }
+                ]
+            }
+        },
+        "c86365761184d42b73d348c3823bf03c4": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554770987586,
+                        "id": "9660864533740",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c86365761184d42b73d348c3823bf03c4"
+                    },
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330152,
+                        "id": "9661073016629",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c86365761184d42b73d348c3823bf03c4"
+                    }
+                ]
+            }
+        },
+        "c8c9313aa2d39a08c012359adb5ac8c2b": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330201,
+                        "id": "9661073016630",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c8c9313aa2d39a08c012359adb5ac8c2b"
+                    }
+                ]
+            }
+        },
+        "c96c9dcf1c95219eff5be7c0ab995943b": {
+            "u54fcf88566fcd94900d0edc31a1b427c": {
+                "msg": [
+                    {
+                        "_from": "u54fcf88566fcd94900d0edc31a1b427c",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}",
+                            "PREVIEW_URL_ENABLED": "true"
+                        },
+                        "createdTime": 1555119424857,
+                        "id": "9684260668658",
+                        "text": "@Lino tuh",
+                        "to": "c96c9dcf1c95219eff5be7c0ab995943b"
+                    }
+                ]
+            }
+        },
+        "c994d46c2ef8e7de9ccaea3a22c6e5ee0": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330572,
+                        "id": "9661073045828",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "c994d46c2ef8e7de9ccaea3a22c6e5ee0"
+                    }
+                ]
+            }
+        },
+        "c9fb488a705e71a7f6cb18b0e71d7df81": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": {
+                "msg": [
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"u454908c4bdb82ccd3ada347d16d44040\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1554853116023,
+                        "id": "9666476564729",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"u454908c4bdb82ccd3ada347d16d44040\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1555003901924,
+                        "id": "9677110979263",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"u454908c4bdb82ccd3ada347d16d44040\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1555005287054,
+                        "id": "9677174180623",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"u454908c4bdb82ccd3ada347d16d44040\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1555005291252,
+                        "id": "9677174369087",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"u454908c4bdb82ccd3ada347d16d44040\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1555005295684,
+                        "id": "9677174565743",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"u454908c4bdb82ccd3ada347d16d44040\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1555005299768,
+                        "id": "9677174747695",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"u454908c4bdb82ccd3ada347d16d44040\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1555005305225,
+                        "id": "9677174990367",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    },
+                    {
+                        "_from": "u009c3c44dc46c33cdc8dd56df896b59b",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"17\", \"E\": \"26\", \"M\": \"ue676ec5ab8d3ca6a2695250ef7be684c\"}, {\"S\": \"32\", \"E\": \"41\", \"M\": \"uc51e9e2513f4a3dbe0dcf9636e00d487\"}, {\"S\": \"47\", \"E\": \"56\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"62\", \"E\": \"71\", \"M\": \"u87a82124f8d563afc656399a04d795f7\"}, {\"S\": \"77\", \"E\": \"86\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}, {\"S\": \"92\", \"E\": \"101\", \"M\": \"u3449578f931ec6424c8092ba85f5fdd0\"}, {\"S\": \"107\", \"E\": \"116\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"122\", \"E\": \"131\", \"M\": \"u3aad0fe915b1515072ea32cb8416a05d\"}, {\"S\": \"137\", \"E\": \"146\", \"M\": \"u92a07a2c6f041c8b3e81dcac86329dd3\"}, {\"S\": \"153\", \"E\": \"162\", \"M\": \"u0319123203c7f47f2240e4905043e4cf\"}, {\"S\": \"169\", \"E\": \"179\", \"M\": \"ub00f2c67c6ccfb4b3bec0cc9362c60a9\"}, {\"S\": \"186\", \"E\": \"196\", \"M\": \"u6057c63c1eb62bdc9b4fc2f6f9046a72\"}, {\"S\": \"203\", \"E\": \"213\", \"M\": \"udbf033e3fbe7618c2e48768996624baa\"}, {\"S\": \"220\", \"E\": \"230\", \"M\": \"u15dc4f4ce5a377f1a41e2e8844933157\"}, {\"S\": \"237\", \"E\": \"247\", \"M\": \"u7f49786a9991c1c689d8d20ff9005b27\"}, {\"S\": \"254\", \"E\": \"264\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"271\", \"E\": \"281\", \"M\": \"uab6e413aaee8243d70baecaddaf8691c\"}, {\"S\": \"288\", \"E\": \"298\", \"M\": \"u198fadd76ae890debda6f78c73f6bbab\"}, {\"S\": \"305\", \"E\": \"315\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}, {\"S\": \"322\", \"E\": \"332\", \"M\": \"ue9810baa363528a3a25dcd9efb731c40\"}]}",
+                            "UNSENT": "true"
+                        },
+                        "createdTime": 1555052381269,
+                        "id": "9679825244907",
+                        "text": "   \u300c Hadir \u300d\n\u23fa1. @[mbah-0] \n\u23fa2. @[mbah-1] \n\u23fa3. @[mbah-2] \n\u23fa4. @[mbah-3] \n\u23fa5. @[mbah-4] \n\u23fa6. @[mbah-5] \n\u23fa7. @[mbah-6] \n\u23fa8. @[mbah-7] \n\u23fa9. @[mbah-8] \n\u23fa10. @[mbah-9] \n\u23fa11. @[mbah-10] \n\u23fa12. @[mbah-11] \n\u23fa13. @[mbah-12] \n\u23fa14. @[mbah-13] \n\u23fa15. @[mbah-14] \n\u23fa16. @[mbah-15] \n\u23fa17. @[mbah-16] \n\u23fa18. @[mbah-17] \n\u23fa19. @[mbah-18] \n\u23fa20. @[mbah-19] ",
+                        "to": "c9fb488a705e71a7f6cb18b0e71d7df81"
+                    }
+                ]
+            }
+        },
+        "caa2b47bd707f84cd2b0070129495a879": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554770988074,
+                        "id": "9660864560301",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "caa2b47bd707f84cd2b0070129495a879"
+                    },
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330428,
+                        "id": "9661073032724",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "caa2b47bd707f84cd2b0070129495a879"
+                    }
+                ]
+            }
+        },
+        "cb6d445df0c895e4aebe3e5e749bca1c2": {
+            "uac3317320b60e3b396d33bae33d10309": {
+                "msg": [
+                    {
+                        "_from": "uac3317320b60e3b396d33bae33d10309",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\":\"0\",\"E\":\"5\",\"M\":\"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554983637756,
+                        "id": "9675508670409",
+                        "text": "@Lino loh ada elu",
+                        "to": "cb6d445df0c895e4aebe3e5e749bca1c2"
+                    }
+                ]
+            },
+            "uf341961556b5c7e4bf7a0cab99a807bb": {
+                "msg": [
+                    {
+                        "_from": "uf341961556b5c7e4bf7a0cab99a807bb",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"18\", \"E\": \"31\", \"M\": \"u2f85290c9d799888381f0e154818bf65\"}, {\"S\": \"36\", \"E\": \"49\", \"M\": \"u80947a98eba0bef4af79175488dda2f4\"}, {\"S\": \"54\", \"E\": \"67\", \"M\": \"u0a3c2723a81ad19dfaa2dee3fcc87ae1\"}, {\"S\": \"72\", \"E\": \"85\", \"M\": \"ub0c358de5f43bd895e83c4e80d2dd835\"}, {\"S\": \"90\", \"E\": \"103\", \"M\": \"ufb220c8c16465b4efe6a0c9f6868ff9b\"}, {\"S\": \"108\", \"E\": \"121\", \"M\": \"ua1a70ba268aeded3188fac0023a7ab9d\"}, {\"S\": \"126\", \"E\": \"139\", \"M\": \"u923ad771bc8bffb1741acf9fcf0141eb\"}, {\"S\": \"144\", \"E\": \"157\", \"M\": \"u09cc1d65d6f4eca935b49ea737bf1c7c\"}, {\"S\": \"162\", \"E\": \"175\", \"M\": \"ue3ecdcf0cc95ab4bec84baab6cc12301\"}, {\"S\": \"181\", \"E\": \"194\", \"M\": \"u227e83c0e8b83956033c683f44f900cc\"}, {\"S\": \"200\", \"E\": \"213\", \"M\": \"ub192ae33ad625f6c2cf95aa83e0e9ecb\"}, {\"S\": \"219\", \"E\": \"232\", \"M\": \"uc8b1ebb4fcfa1669e7c556f505d059c4\"}, {\"S\": \"238\", \"E\": \"251\", \"M\": \"u1a97c656402d0775dc9fc42b68e77fb6\"}, {\"S\": \"257\", \"E\": \"270\", \"M\": \"ub56a17ca8d53817133ccea490e783ac4\"}, {\"S\": \"276\", \"E\": \"289\", \"M\": \"u122834bfb54a3b50fbb642f97291bae7\"}, {\"S\": \"295\", \"E\": \"308\", \"M\": \"u5b25a990a14a9402d7c52df4b249b593\"}, {\"S\": \"314\", \"E\": \"327\", \"M\": \"u0fe376e7b6083d8169259b464a824bd0\"}, {\"S\": \"333\", \"E\": \"346\", \"M\": \"u57b827fb979647fa72463887eab09af1\"}, {\"S\": \"352\", \"E\": \"365\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}, {\"S\": \"371\", \"E\": \"384\", \"M\": \"u8904e320fb5961cc1509118e58dc7e05\"}]}"
+                        },
+                        "createdTime": 1555081280145,
+                        "id": "9682336424771",
+                        "text": "\u256d\u300c Mention \u300d\u2500\n\u25021. @KhieMention \n\u25022. @KhieMention \n\u25023. @KhieMention \n\u25024. @KhieMention \n\u25025. @KhieMention \n\u25026. @KhieMention \n\u25027. @KhieMention \n\u25028. @KhieMention \n\u25029. @KhieMention \n\u250210. @KhieMention \n\u250211. @KhieMention \n\u250212. @KhieMention \n\u250213. @KhieMention \n\u250214. @KhieMention \n\u250215. @KhieMention \n\u250216. @KhieMention \n\u250217. @KhieMention \n\u250218. @KhieMention \n\u250219. @KhieMention \n\u250220. @KhieMention ",
+                        "to": "cb6d445df0c895e4aebe3e5e749bca1c2"
+                    }
+                ]
+            }
+        },
+        "cbeefaed025cc011e77069eecafbe2973": {
+            "u1fb56bd74b0f0fc6297fc0bb93d46522": {
+                "msg": [
+                    {
+                        "_from": "u1fb56bd74b0f0fc6297fc0bb93d46522",
+                        "contentMetadata": {
+                            "MENTION": "{\"MENTIONEES\":[{\"S\": \"1\", \"E\": \"12\", \"M\": \"u4373bb9d376b38e547aaf8548cba4d73\"}]}"
+                        },
+                        "createdTime": 1554774330406,
+                        "id": "9661073032723",
+                        "text": " @zeroxyuuki  Kam ndiri anjeng jan manja ",
+                        "to": "cbeefaed025cc011e77069eecafbe2973"
+                    }
+                ]
+            }
+        }
+    },
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "detectAnime": false,
+    "detectUnsend": {},
+    "greet": {
+        "join": {
+            "message": "Hello @!, welcome to group {name}",
+            "status": false
+        },
+        "leave": {
+            "message": "Good bye @!, see you next time",
+            "status": false
+        }
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "f8e3dc0898d2819b943900695333fd73",
+        "displayName": "Lino",
+        "pictureStatus": "0hW5T4OrWyCBppTSLR0k53TVUIBnceYw5SES5Fek4eBSIRf0lLBilOKEhIUHoUKkZIUCIVLxxIAyxG",
+        "statusMessage": "{\\__/}\n( \u2022 - \u2022)\n/ >\ud83c\udf82\nYou want my cake? \n\n{\\__/}\n( \u2022 - \u2022)\n\ud83c\udf82< \\\nNo! My cake! \n\n{\\__/}\n( \u2022 - \u2022)\n/ >\ud83c\udf82\nJust kidding you can have my cake. \n\n{\\__/}\n( - _ -)\n/ >\ud83c\udf82 \nBut just a bite.\n\n{\\__/}\n( \u2022 - \u2022)\n\ud83c\udf82< \\ \u2694\nNo you bite too much! No more cake bitting privileges."
+    },
+    "restartPoint": null,
+    "setKey": {
+        "key": ",",
+        "status": true
+    }
+}
